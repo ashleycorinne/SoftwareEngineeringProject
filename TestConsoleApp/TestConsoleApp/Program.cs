@@ -11,9 +11,8 @@ namespace TestConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Stormi Change Again");
+            Console.WriteLine("Stormi Change");
             Console.WriteLine("Andrew Add");
-
         }
     }
 }
