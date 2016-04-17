@@ -4,21 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestConsoleApp
+namespace BranchApp
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Stormi Change");
-            Console.WriteLine("Andrew Add");
-
             var rand = new Random();
             var items = new List<int>();
 
             for (int i = 0; i < 1000; i++)
             {
+                items.Add(rand.Next(10000));
+            }
+
+            var things = items.Where(i => i > 5000).OrderBy(i => i);
+
+            foreach (var item in things)
+            {
+                Console.WriteLine(item);
             }
         }
     }
