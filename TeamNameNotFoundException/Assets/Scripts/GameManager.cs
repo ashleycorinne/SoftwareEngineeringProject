@@ -7,7 +7,7 @@ using UnityEngine.UI;
 	{
 		public float levelStartDelay = 2f;						
 		public float turnDelay = 0.1f;							
-		public int playerFoodPoints = 100;						
+		public int playerBattery = 100;						
 		public static GameManager instance = null;				
 		[HideInInspector] public bool playersTurn = true;			
 		private Text levelText;									
@@ -41,7 +41,7 @@ using UnityEngine.UI;
 			doingSetup = true;	
 			levelImage = GameObject.Find("LevelImage");
 			levelText = GameObject.Find("LevelText").GetComponent<Text>();
-			levelText.text = "Day " + level;
+			levelText.text = "Cycle " + level;
 			levelImage.SetActive(true);
 			Invoke("HideLevelImage", levelStartDelay);
 			enemies.Clear();
@@ -68,7 +68,7 @@ using UnityEngine.UI;
 		
 		public void GameOver()
 		{
-			levelText.text = "After " + level + " days, you starved.";
+			levelText.text = "Your laptop died! You are stuck in the computer forever. GAME OVER.";
 			levelImage.SetActive(true);
 			enabled = false;
 		}

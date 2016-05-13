@@ -43,7 +43,7 @@ public class Enemy : MovingObject
 	protected override void OnCantMove <T> (T component)
 	{
 		Player hitPlayer = component as Player;
-		hitPlayer.LoseFood (playerDamage);
+		hitPlayer.LoseBattery (playerDamage);
 		animator.SetTrigger ("enemyAttack");
 	}
 }

@@ -5,10 +5,10 @@ using UnityEngine.UI;
 public class Player : MovingObject
 {
     public float restartLevelDelay = 1f;
-    public int pointsPerFood = 10;
-    public int pointsPerSoda = 20;
+    public int batteryPoints = 10;
+    public double redbullPoints = .01;
     public int wallDamage = 1;
-    public Text foodText;
+    public Text BatteryText;
     public AudioClip moveSound1;
     public AudioClip moveSound2;
     public AudioClip eatSound1;
@@ -18,19 +18,19 @@ public class Player : MovingObject
     public AudioClip gameOverSound;
 
     private Animator animator;
-    private int food;
+    private int battery;
 
     protected override void Start()
     {
         animator = GetComponent<Animator>();
-        food = GameManager.instance.playerFoodPoints;
-        foodText.text = "Food: " + food;
+        battery = GameManager.instance.playerBattery;
+        BatteryText.text = battery + "%";
         base.Start();
     }
 
     private void OnDisable()
     {
-        GameManager.instance.playerFoodPoints = food;
+        GameManager.instance.playerBattery = battery;
     }
 
     private void Update()
@@ -50,13 +50,14 @@ public class Player : MovingObject
         if (horizontal != 0 || vertical != 0)
         {
             AttemptMove<Wall>(horizontal, vertical);
+            animator.SetTrigger("playerWalk");
         }
     }
 
     protected override void AttemptMove<T>(int xDir, int yDir)
     {
-        food--;
-        foodText.text = "Food: " + food;
+        battery--;
+        BatteryText.text = battery + "%";
         base.AttemptMove<T>(xDir, yDir);
         RaycastHit2D hit;
         if (Move(xDir, yDir, out hit))
@@ -83,15 +84,15 @@ public class Player : MovingObject
         }
         else if (other.tag == "Food")
         {
-            food += pointsPerFood;
-            foodText.text = "+" + pointsPerFood + " Food: " + food;
+            battery += batteryPoints;
+            BatteryText.text = "+" + batteryPoints + " " + battery + "%";
             //	SoundManager.instance.RandomizeSfx (eatSound1, eatSound2);
             other.gameObject.SetActive(false);
         }
         else if (other.tag == "Soda")
         {
-            food += pointsPerSoda;
-            foodText.text = "+" + pointsPerSoda + " Food: " + food;
+            //redbull will speed character for amount of time
+            
             //		SoundManager.instance.RandomizeSfx (drinkSound1, drinkSound2);
             other.gameObject.SetActive(false);
         }
@@ -103,18 +104,18 @@ public class Player : MovingObject
     }
 
 
-    public void LoseFood(int loss)
+    public void LoseBattery(int loss)
     {
         animator.SetTrigger("playerHit");
-        food -= loss;
-        foodText.text = "-" + loss + " Food: " + food;
+        battery -= loss;
+        BatteryText.text = "-" + loss + " " + battery + "%";
         CheckIfGameOver();
     }
 
     private void CheckIfGameOver()
     {
         //Check if food point total is less than or equal to zero.
-        if (food <= 0)
+        if (battery <= 0)
         {
             //Call the PlaySingle function of SoundManager and pass it the gameOverSound as the audio clip to play.
             //		SoundManager.instance.PlaySingle (gameOverSound);

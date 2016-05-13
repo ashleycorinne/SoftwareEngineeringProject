@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
-	
-	public class Loader : MonoBehaviour 
+
+public class Loader : MonoBehaviour 
 	{
 		public GameObject gameManager;			
 		public GameObject soundManager;			
@@ -11,7 +11,7 @@ using System.Collections;
 		{
 			if (GameManager.instance == null)
 				Instantiate(gameManager);
-			//if (SoundManager.instance == null)
-			//	Instantiate(soundManager);
+			if (SoundManager.instance == null)
+				Instantiate(soundManager);
 		}
 	}
