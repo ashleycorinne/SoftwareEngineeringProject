@@ -1,15 +1,20 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System;
 
-public class Count : MonoBehaviour {
+namespace Counter 
+{
+	[Serializable]
+	public class Count 
+	{
+		public int minimum;
+		public int maximum;
 
-	// Use this for initialization
-	void Start () {
-	
+		public Count(int min, int max) 
+		{
+			minimum = min;
+			maximum = max;
+		}
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+
 }
