@@ -6,7 +6,7 @@ public class Player : MovingObject
 {
     public float restartLevelDelay = 1f;
     public int batteryPoints = 10;
-    public double redbullPoints = .01;
+    public int redbullPoints = 25;
     public int wallDamage = 1;
     public Text BatteryText;
     public AudioClip moveSound1;
