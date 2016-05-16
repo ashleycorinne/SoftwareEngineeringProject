@@ -85,7 +85,7 @@ public class Player : MovingObject
         else if (other.tag == "Food")
         {
             battery += batteryPoints;
-            BatteryText.text = "+" + batteryPoints + " " + battery + "%";
+            BatteryText.text = "+" + batteryPoints + "        " + battery + "%";
             //	SoundManager.instance.RandomizeSfx (eatSound1, eatSound2);
             other.gameObject.SetActive(false);
         }
@@ -108,7 +108,7 @@ public class Player : MovingObject
     {
         animator.SetTrigger("playerHit");
         battery -= loss;
-        BatteryText.text = "-" + loss + " " + battery + "%";
+        BatteryText.text = "-" + loss + "        " + battery + "%";
         CheckIfGameOver();
     }
 
