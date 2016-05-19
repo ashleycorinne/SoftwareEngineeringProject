@@ -1,9 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
-using System.Collections.Generic;		
-using UnityEngine.UI;					
-	
-	public class GameManager : MonoBehaviour
+using System.Collections.Generic;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+
+public class GameManager : MonoBehaviour
 	{
 		public float levelStartDelay = 2f;						
 		public float turnDelay = 0.1f;							
@@ -29,10 +30,16 @@ using UnityEngine.UI;
 			boardScript = GetComponent<BoardManager>();
 			InitGame();
 		}
-		
-		void OnLevelWasLoaded(int index)
+
+    static bool firstRun = true;
+    void OnLevelWasLoaded(int index)
 		{
-			level++;
+            if (firstRun)
+            {
+                firstRun = false;
+                return;
+            }
+            level++;
 			InitGame();
 		}
 		

@@ -118,7 +118,7 @@ public class Player : MovingObject
         if (battery <= 0)
         {
             //Call the PlaySingle function of SoundManager and pass it the gameOverSound as the audio clip to play.
-            //		SoundManager.instance.PlaySingle (gameOverSound);
+            		SoundManager.instance.PlaySingle (gameOverSound);
 
             //Stop the background music.
             //	SoundManager.instance.musicSource.Stop();
