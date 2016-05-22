@@ -1,0 +1,2609 @@
+fileFormatVersion: 2
+guid: 2f9d46c95e0a80346a02624469a33a5c
+timeCreated: 1463876119
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stormi_0
+    21300002: Stormi_1
+    21300004: Stormi_2
+    21300006: Stormi_3
+    21300008: Stormi_4
+    21300010: Stormi_5
+    21300012: Stormi_6
+    21300014: Stormi_7
+    21300016: Stormi_8
+    21300018: Stormi_9
+    21300020: Stormi_10
+    21300022: Stormi_11
+    21300024: Stormi_12
+    21300026: Stormi_13
+    21300028: Stormi_14
+    21300030: Stormi_15
+    21300032: Stormi_16
+    21300034: Stormi_17
+    21300036: Stormi_18
+    21300038: Stormi_19
+    21300040: Stormi_20
+    21300042: Stormi_21
+    21300044: Stormi_22
+    21300046: Stormi_23
+    21300048: Stormi_24
+    21300050: Stormi_25
+    21300052: Stormi_26
+    21300054: Stormi_27
+    21300056: Stormi_28
+    21300058: Stormi_29
+    21300060: Stormi_30
+    21300062: Stormi_31
+    21300064: Stormi_32
+    21300066: Stormi_33
+    21300068: Stormi_34
+    21300070: Stormi_35
+    21300072: Stormi_36
+    21300074: Stormi_37
+    21300076: Stormi_38
+    21300078: Stormi_39
+    21300080: Stormi_40
+    21300082: Stormi_41
+    21300084: Stormi_42
+    21300086: Stormi_43
+    21300088: Stormi_44
+    21300090: Stormi_45
+    21300092: Stormi_46
+    21300094: Stormi_47
+    21300096: Stormi_48
+    21300098: Stormi_49
+    21300100: Stormi_50
+    21300102: Stormi_51
+    21300104: Stormi_52
+    21300106: Stormi_53
+    21300108: Stormi_54
+    21300110: Stormi_55
+    21300112: Stormi_56
+    21300114: Stormi_57
+    21300116: Stormi_58
+    21300118: Stormi_59
+    21300120: Stormi_60
+    21300122: Stormi_61
+    21300124: Stormi_62
+    21300126: Stormi_63
+    21300128: Stormi_64
+    21300130: Stormi_65
+    21300132: Stormi_66
+    21300134: Stormi_67
+    21300136: Stormi_68
+    21300138: Stormi_69
+    21300140: Stormi_70
+    21300142: Stormi_71
+    21300144: Stormi_72
+    21300146: Stormi_73
+    21300148: Stormi_74
+    21300150: Stormi_75
+    21300152: Stormi_76
+    21300154: Stormi_77
+    21300156: Stormi_78
+    21300158: Stormi_79
+    21300160: Stormi_80
+    21300162: Stormi_81
+    21300164: Stormi_82
+    21300166: Stormi_83
+    21300168: Stormi_84
+    21300170: Stormi_85
+    21300172: Stormi_86
+    21300174: Stormi_87
+    21300176: Stormi_88
+    21300178: Stormi_89
+    21300180: Stormi_90
+    21300182: Stormi_91
+    21300184: Stormi_92
+    21300186: Stormi_93
+    21300188: Stormi_94
+    21300190: Stormi_95
+    21300192: Stormi_96
+    21300194: Stormi_97
+    21300196: Stormi_98
+    21300198: Stormi_99
+    21300200: Stormi_100
+    21300202: Stormi_101
+    21300204: Stormi_102
+    21300206: Stormi_103
+    21300208: Stormi_104
+    21300210: Stormi_105
+    21300212: Stormi_106
+    21300214: Stormi_107
+    21300216: Stormi_108
+    21300218: Stormi_109
+    21300220: Stormi_110
+    21300222: Stormi_111
+    21300224: Stormi_112
+    21300226: Stormi_113
+    21300228: Stormi_114
+    21300230: Stormi_115
+    21300232: Stormi_116
+    21300234: Stormi_117
+    21300236: Stormi_118
+    21300238: Stormi_119
+    21300240: Stormi_120
+    21300242: Stormi_121
+    21300244: Stormi_122
+    21300246: Stormi_123
+    21300248: Stormi_124
+    21300250: Stormi_125
+    21300252: Stormi_126
+    21300254: Stormi_127
+    21300256: Stormi_128
+    21300258: Stormi_129
+    21300260: Stormi_130
+    21300262: Stormi_131
+    21300264: Stormi_132
+    21300266: Stormi_133
+    21300268: Stormi_134
+    21300270: Stormi_135
+    21300272: Stormi_136
+    21300274: Stormi_137
+    21300276: Stormi_138
+    21300278: Stormi_139
+    21300280: Stormi_140
+    21300282: Stormi_141
+    21300284: Stormi_142
+    21300286: Stormi_143
+    21300288: Stormi_144
+    21300290: Stormi_145
+    21300292: Stormi_146
+    21300294: Stormi_147
+    21300296: Stormi_148
+    21300298: Stormi_149
+    21300300: Stormi_150
+    21300302: Stormi_151
+    21300304: Stormi_152
+    21300306: Stormi_153
+    21300308: Stormi_154
+    21300310: Stormi_155
+    21300312: Stormi_156
+    21300314: Stormi_157
+    21300316: Stormi_158
+    21300318: Stormi_159
+    21300320: Stormi_160
+    21300322: Stormi_161
+    21300324: Stormi_162
+    21300326: Stormi_163
+    21300328: Stormi_164
+    21300330: Stormi_165
+    21300332: Stormi_166
+    21300334: Stormi_167
+    21300336: Stormi_168
+    21300338: Stormi_169
+    21300340: Stormi_170
+    21300342: Stormi_171
+    21300344: Stormi_172
+    21300346: Stormi_173
+    21300348: Stormi_174
+    21300350: Stormi_175
+    21300352: Stormi_176
+    21300354: Stormi_177
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Stormi_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1282
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1282
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1282
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1282
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 24}
+        - {x: -14, y: 24}
+        - {x: -17, y: 18}
+        - {x: -17, y: -20}
+        - {x: -14, y: -24}
+        - {x: 16, y: -24}
+        - {x: 17, y: -22}
+        - {x: 17, y: 15}
+    - name: Stormi_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1282
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 24}
+        - {x: -22, y: 15}
+        - {x: -22, y: -5}
+        - {x: -20, y: -7}
+        - {x: -12, y: -23}
+        - {x: -11, y: -24}
+        - {x: 16, y: -24}
+        - {x: 22, y: -16}
+        - {x: 22, y: 20}
+        - {x: 11, y: 24}
+    - name: Stormi_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1282
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 24}
+        - {x: -22, y: 21}
+        - {x: -22, y: -13}
+        - {x: -19, y: -24}
+        - {x: 16, y: -24}
+        - {x: 22, y: -17}
+        - {x: 22, y: 24}
+    - name: Stormi_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1282
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 24}
+        - {x: -14, y: 24}
+        - {x: -17, y: 18}
+        - {x: -17, y: -20}
+        - {x: -14, y: -24}
+        - {x: 16, y: -24}
+        - {x: 17, y: -22}
+        - {x: 17, y: 15}
+    - name: Stormi_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1218
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1218
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1218
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1218
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1218
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 24}
+        - {x: -16, y: 19}
+        - {x: -16, y: -23}
+        - {x: -15, y: -24}
+        - {x: 9, y: -24}
+        - {x: 16, y: -10}
+        - {x: 16, y: 14}
+        - {x: 14, y: 24}
+    - name: Stormi_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1218
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 24}
+        - {x: -16, y: 24}
+        - {x: -16, y: -24}
+        - {x: 10, y: -24}
+        - {x: 16, y: -1}
+        - {x: 16, y: 18}
+        - {x: 12, y: 23}
+    - name: Stormi_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1218
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1154
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1154
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1154
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1154
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 24.5}
+        - {x: -16, y: 23.5}
+        - {x: -16, y: -23.5}
+        - {x: -15, y: -24.5}
+        - {x: 12, y: -24.5}
+        - {x: 16, y: -17.5}
+        - {x: 16, y: 18.5}
+        - {x: 8, y: 24.5}
+    - name: Stormi_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1154
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 24.5}
+        - {x: -14, y: 24.5}
+        - {x: -22, y: 18.5}
+        - {x: -22, y: -17.5}
+        - {x: -19, y: -24.5}
+        - {x: 12, y: -24.5}
+        - {x: 22, y: -12.5}
+        - {x: 22, y: 11.5}
+        - {x: 15, y: 23.5}
+    - name: Stormi_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1154
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 24.5}
+        - {x: -22, y: 21.5}
+        - {x: -22, y: -21.5}
+        - {x: -17, y: -24.5}
+        - {x: 20, y: -24.5}
+        - {x: 22, y: -9.5}
+        - {x: 22, y: 15.5}
+        - {x: 15, y: 24.5}
+    - name: Stormi_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1154
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 24.5}
+        - {x: -16, y: 23.5}
+        - {x: -16, y: -23.5}
+        - {x: -15, y: -24.5}
+        - {x: 12, y: -24.5}
+        - {x: 16, y: -17.5}
+        - {x: 16, y: 18.5}
+        - {x: 8, y: 24.5}
+    - name: Stormi_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1090
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1090
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1090
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1090
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1090
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -16, y: 21}
+        - {x: -16, y: -8}
+        - {x: -15, y: -11}
+        - {x: -14, y: -15}
+        - {x: -8, y: -24}
+        - {x: 16, y: -24}
+        - {x: 16, y: 19}
+        - {x: 14, y: 24}
+    - name: Stormi_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1090
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 24}
+        - {x: -12, y: 24}
+        - {x: -16, y: 17}
+        - {x: -16, y: -12}
+        - {x: -10, y: -24}
+        - {x: 13, y: -24}
+        - {x: 15, y: -23}
+        - {x: 16, y: -15}
+        - {x: 16, y: 23}
+    - name: Stormi_27
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1090
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1025
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1024
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1024
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1024
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1024
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1024
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1024
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1024
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 962
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 962
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 962
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 962
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 962
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 962
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 962
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 898
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 898
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 899
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 899
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 899
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 899
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 834
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 834
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 834
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 834
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 834
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 834
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 834
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 770
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 770
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 769
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 768
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_64
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 769
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_65
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 770
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_66
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 769
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_67
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 768
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_68
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 769
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_69
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 706
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 706
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_71
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 707
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 707
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 706
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_75
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 706
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_76
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 706
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_77
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 706
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_78
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 642
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_79
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 642
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_80
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 641
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 641
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_82
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 641
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_83
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 642
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_84
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 641
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_85
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 641
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_86
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 641
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 578
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 578
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 579
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 579
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 578
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 578
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 578
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 578
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_96
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 514
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 514
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 514
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_99
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 514
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_100
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 514
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 24.5}
+        - {x: -16.5, y: -21.5}
+        - {x: -15.5, y: -24.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 16.5, y: -11.5}
+        - {x: 16.5, y: 18.5}
+        - {x: 14.5, y: 24.5}
+    - name: Stormi_101
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 514
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24.5}
+        - {x: -18, y: -24.5}
+        - {x: 18, y: -24.5}
+        - {x: 18, y: 24.5}
+    - name: Stormi_102
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 450
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_103
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 450
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_104
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 450
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_105
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 450
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24}
+        - {x: -16, y: 12}
+        - {x: -16, y: -22}
+        - {x: -15, y: -24}
+        - {x: 16, y: -24}
+        - {x: 16, y: 23}
+        - {x: 12, y: 24}
+    - name: Stormi_106
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 450
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 24}
+        - {x: -14.5, y: 22}
+        - {x: -16.5, y: 12}
+        - {x: -16.5, y: -6}
+        - {x: -9.5, y: -23}
+        - {x: -5.5, y: -24}
+        - {x: 16.5, y: -24}
+        - {x: 16.5, y: 16}
+        - {x: 14.5, y: 24}
+    - name: Stormi_107
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 450
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: -16, y: -24}
+        - {x: 16, y: -24}
+        - {x: 16, y: 23}
+        - {x: 12, y: 24}
+    - name: Stormi_108
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 386
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_109
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 386
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 386
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 386
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_112
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 386
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_113
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 386
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 24.5}
+        - {x: -17, y: 19.5}
+        - {x: -17, y: -24.5}
+        - {x: 12, y: -24.5}
+        - {x: 17, y: -19.5}
+        - {x: 17, y: 12.5}
+        - {x: 13, y: 24.5}
+    - name: Stormi_114
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 322
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_115
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 322
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_116
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 322
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_117
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 322
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 24}
+        - {x: -13, y: 24}
+        - {x: -16, y: 19}
+        - {x: -16, y: -18}
+        - {x: -14, y: -24}
+        - {x: 6, y: -24}
+        - {x: 10, y: -23}
+        - {x: 16, y: -15}
+        - {x: 16, y: 8}
+        - {x: 13, y: 23}
+    - name: Stormi_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 24}
+        - {x: -16.5, y: -23}
+        - {x: -14.5, y: -24}
+        - {x: 10.5, y: -24}
+        - {x: 16.5, y: -10}
+        - {x: 16.5, y: 20}
+        - {x: 8.5, y: 24}
+    - name: Stormi_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 322
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 24}
+        - {x: -10, y: 24}
+        - {x: -16, y: 20}
+        - {x: -16, y: -23}
+        - {x: -14, y: -24}
+        - {x: 6, y: -24}
+        - {x: 16, y: -16}
+        - {x: 16, y: 18}
+    - name: Stormi_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 24}
+        - {x: -19, y: 9}
+        - {x: -19, y: -17}
+        - {x: -7, y: -24}
+        - {x: 19, y: -24}
+        - {x: 19, y: 23}
+        - {x: 17, y: 24}
+    - name: Stormi_121
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 257
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 24.5}
+        - {x: -17, y: -10.5}
+        - {x: -10, y: -24.5}
+        - {x: 17, y: -24.5}
+        - {x: 17, y: 23.5}
+        - {x: 15, y: 24.5}
+    - name: Stormi_122
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 256
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 25}
+        - {x: -18.5, y: 23}
+        - {x: -18.5, y: -17}
+        - {x: -17.5, y: -23}
+        - {x: -12.5, y: -25}
+        - {x: 15.5, y: -25}
+        - {x: 18.5, y: -21}
+        - {x: 18.5, y: 21}
+        - {x: 11.5, y: 25}
+    - name: Stormi_123
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 256
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 256
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 256
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 256
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_127
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 256
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_128
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 256
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_129
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 256
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_130
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 256
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_131
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 256
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_132
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 256
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_133
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 24}
+        - {x: -24, y: 9}
+        - {x: -24, y: -8}
+        - {x: -9, y: -24}
+        - {x: 18, y: -24}
+        - {x: 24, y: -13}
+        - {x: 24, y: 11}
+        - {x: 18, y: 24}
+    - name: Stormi_134
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 194
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 24}
+        - {x: -18.5, y: 22}
+        - {x: -18.5, y: -9}
+        - {x: -11.5, y: -24}
+        - {x: 17.5, y: -24}
+        - {x: 18.5, y: -23}
+        - {x: 18.5, y: 18}
+        - {x: 13.5, y: 24}
+    - name: Stormi_135
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 194
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 24}
+        - {x: -19.5, y: -11}
+        - {x: -9.5, y: -24}
+        - {x: 16.5, y: -24}
+        - {x: 19.5, y: -17}
+        - {x: 19.5, y: 23}
+        - {x: 15.5, y: 24}
+    - name: Stormi_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 192
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 24}
+        - {x: -9.5, y: 24}
+        - {x: -17.5, y: 16}
+        - {x: -17.5, y: -24}
+        - {x: 12.5, y: -24}
+        - {x: 17.5, y: -15}
+        - {x: 17.5, y: 23}
+    - name: Stormi_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 194
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 26}
+        - {x: -17.5, y: 20}
+        - {x: -17.5, y: -21}
+        - {x: -7.5, y: -26}
+        - {x: 17.5, y: -26}
+        - {x: 17.5, y: 24}
+        - {x: 11.5, y: 26}
+    - name: Stormi_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 27}
+        - {x: -17, y: 21}
+        - {x: -17, y: -15}
+        - {x: -7, y: -27}
+        - {x: 17, y: -27}
+        - {x: 17, y: 24}
+        - {x: 12, y: 27}
+    - name: Stormi_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 194
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -18}
+        - {x: -13, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 16}
+        - {x: 12, y: 28}
+    - name: Stormi_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 194
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 27.5}
+        - {x: -18, y: 21.5}
+        - {x: -18, y: -21.5}
+        - {x: -9, y: -27.5}
+        - {x: 15, y: -27.5}
+        - {x: 18, y: -22.5}
+        - {x: 18, y: 15.5}
+        - {x: 8, y: 27.5}
+    - name: Stormi_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 194
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -19, y: 24.5}
+        - {x: -19, y: -22.5}
+        - {x: -18, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 19, y: -17.5}
+        - {x: 19, y: 22.5}
+        - {x: 11, y: 25.5}
+    - name: Stormi_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 194
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 26}
+        - {x: -17.5, y: 20}
+        - {x: -17.5, y: -21}
+        - {x: -7.5, y: -26}
+        - {x: 17.5, y: -26}
+        - {x: 17.5, y: 24}
+        - {x: 11.5, y: 26}
+    - name: Stormi_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 194
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 26}
+        - {x: -17, y: 21}
+        - {x: -17, y: -21}
+        - {x: -7, y: -26}
+        - {x: 15, y: -26}
+        - {x: 17, y: -23}
+        - {x: 17, y: 20}
+        - {x: 12, y: 26}
+    - name: Stormi_144
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 194
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 21}
+        - {x: 5.5, y: 26}
+        - {x: -10.5, y: 26}
+        - {x: -17.5, y: 20}
+        - {x: -17.5, y: -21}
+        - {x: -7.5, y: -26}
+        - {x: 13.5, y: -26}
+        - {x: 15.5, y: -25}
+        - {x: 17.5, y: -13}
+        - {x: 17.5, y: 16}
+    - name: Stormi_145
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 194
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 26}
+        - {x: -17, y: 21}
+        - {x: -17, y: -21}
+        - {x: -7, y: -26}
+        - {x: 15, y: -26}
+        - {x: 17, y: -23}
+        - {x: 17, y: 20}
+        - {x: 12, y: 26}
+    - name: Stormi_146
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 24.5}
+        - {x: -18, y: 23.5}
+        - {x: -18, y: -24.5}
+        - {x: 13, y: -24.5}
+        - {x: 18, y: -13.5}
+        - {x: 18, y: 15.5}
+        - {x: 8, y: 24.5}
+    - name: Stormi_147
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 129
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25}
+        - {x: -14, y: 24}
+        - {x: -18, y: 6}
+        - {x: -18, y: -17}
+        - {x: -14, y: -25}
+        - {x: 14, y: -25}
+        - {x: 18, y: -10}
+        - {x: 18, y: 21}
+        - {x: 13, y: 25}
+    - name: Stormi_148
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 131
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 24}
+        - {x: -16.5, y: 14}
+        - {x: -18.5, y: -2}
+        - {x: -18.5, y: -21}
+        - {x: -10.5, y: -24}
+        - {x: 12.5, y: -24}
+        - {x: 18.5, y: -11}
+        - {x: 18.5, y: 21}
+        - {x: 10.5, y: 24}
+    - name: Stormi_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 130
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 130
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 130
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 130
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_155
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 129
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 129
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_157
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 129
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 129
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_159
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 66
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24}
+        - {x: -24, y: 16}
+        - {x: -24, y: -8}
+        - {x: -19, y: -24}
+        - {x: 7, y: -24}
+        - {x: 24, y: -8}
+        - {x: 24, y: 13}
+        - {x: 16, y: 24}
+    - name: Stormi_160
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 66
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 24}
+        - {x: -18.5, y: -23}
+        - {x: -14.5, y: -24}
+        - {x: 6.5, y: -24}
+        - {x: 18.5, y: -3}
+        - {x: 18.5, y: 18}
+        - {x: 9.5, y: 24}
+    - name: Stormi_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 24}
+        - {x: -15, y: 24}
+        - {x: -20, y: 17}
+        - {x: -20, y: -14}
+        - {x: -16, y: -24}
+        - {x: 12, y: -24}
+        - {x: 20, y: -5}
+        - {x: 20, y: 21}
+        - {x: 19, y: 22}
+    - name: Stormi_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 24}
+        - {x: -17.5, y: 21}
+        - {x: -17.5, y: -24}
+        - {x: 14.5, y: -24}
+        - {x: 17.5, y: -20}
+        - {x: 17.5, y: 19}
+        - {x: 7.5, y: 24}
+    - name: Stormi_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 26}
+        - {x: -18, y: 15}
+        - {x: -18, y: -22}
+        - {x: -17, y: -26}
+        - {x: 9, y: -26}
+        - {x: 18, y: -23}
+        - {x: 18, y: 20}
+        - {x: 9, y: 26}
+    - name: Stormi_164
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 66
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 27}
+        - {x: -17.5, y: 24}
+        - {x: -17.5, y: -27}
+        - {x: 14.5, y: -27}
+        - {x: 17.5, y: -18}
+        - {x: 17.5, y: 25}
+        - {x: 12.5, y: 27}
+    - name: Stormi_165
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 28}
+        - {x: -17.5, y: 20}
+        - {x: -17.5, y: -28}
+        - {x: 14.5, y: -28}
+        - {x: 17.5, y: -16}
+        - {x: 17.5, y: 25}
+        - {x: 11.5, y: 28}
+    - name: Stormi_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 27.5}
+        - {x: -9.5, y: 22.5}
+        - {x: -18.5, y: 10.5}
+        - {x: -18.5, y: -23.5}
+        - {x: -17.5, y: -27.5}
+        - {x: 10.5, y: -27.5}
+        - {x: 18.5, y: -20.5}
+        - {x: 18.5, y: 27.5}
+    - name: Stormi_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 25.5}
+        - {x: -16.5, y: 22.5}
+        - {x: -19.5, y: 10.5}
+        - {x: -19.5, y: -12.5}
+        - {x: -15.5, y: -24.5}
+        - {x: -14.5, y: -25.5}
+        - {x: 17.5, y: -25.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 22.5}
+        - {x: 13.5, y: 25.5}
+    - name: Stormi_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 26}
+        - {x: -18, y: 15}
+        - {x: -18, y: -22}
+        - {x: -17, y: -26}
+        - {x: 9, y: -26}
+        - {x: 18, y: -23}
+        - {x: 18, y: 20}
+        - {x: 9, y: 26}
+    - name: Stormi_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 66
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 26}
+        - {x: -17.5, y: 23}
+        - {x: -17.5, y: -26}
+        - {x: 9.5, y: -26}
+        - {x: 17.5, y: -24}
+        - {x: 17.5, y: 23}
+        - {x: 7.5, y: 26}
+    - name: Stormi_170
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 66
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 26}
+        - {x: -17, y: 21}
+        - {x: -18, y: 19}
+        - {x: -18, y: -21}
+        - {x: -16, y: -26}
+        - {x: 7, y: -26}
+        - {x: 18, y: -16}
+        - {x: 18, y: 16}
+        - {x: 9, y: 26}
+    - name: Stormi_171
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 66
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 26}
+        - {x: -18.5, y: 22}
+        - {x: -18.5, y: -17}
+        - {x: -14.5, y: -26}
+        - {x: 8.5, y: -26}
+        - {x: 18.5, y: -21}
+        - {x: 18.5, y: 21}
+        - {x: 13.5, y: 26}
+    - name: Stormi_172
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_173
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_174
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_175
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_176
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Stormi_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 18}
+        - {x: -17, y: -18}
+        - {x: 17, y: -18}
+        - {x: 17, y: 18}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

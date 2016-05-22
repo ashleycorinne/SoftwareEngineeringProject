@@ -7,7 +7,12 @@ public abstract class MovingObject : MonoBehaviour
 	public LayerMask blockingLayer;			
 	private BoxCollider2D boxCollider; 		
 	private Rigidbody2D rb2D;				
-	private float inverseMoveTime;			
+	private float inverseMoveTime;		
+    
+    public void setMoveTime(float points)
+    {
+        this.inverseMoveTime = this.inverseMoveTime + points;
+    }	
 		
 	protected virtual void Start ()
 	{

@@ -1,14 +1,17 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+using System.Threading;
 
 public class Player : MovingObject
 {
     public float restartLevelDelay = 1f;
     public int batteryPoints = 10;
-    public double redbullPoints = .01;
+    public float redbullPoints = 10f;
     public int wallDamage = 1;
     public Text BatteryText;
+    public Text PlusMinusBatteryText;
     public AudioClip moveSound1;
     public AudioClip moveSound2;
     public AudioClip eatSound1;
@@ -25,6 +28,7 @@ public class Player : MovingObject
         animator = GetComponent<Animator>();
         battery = GameManager.instance.playerBattery;
         BatteryText.text = battery + "%";
+        PlusMinusBatteryText.text = "";
         base.Start();
     }
 
@@ -58,6 +62,7 @@ public class Player : MovingObject
     {
         battery--;
         BatteryText.text = battery + "%";
+        PlusMinusBatteryText.text = "";
         base.AttemptMove<T>(xDir, yDir);
         RaycastHit2D hit;
         if (Move(xDir, yDir, out hit))
@@ -70,10 +75,12 @@ public class Player : MovingObject
 
     protected override void OnCantMove<T>(T component)
     {
+        animator.SetTrigger("playerChop");
         Wall hitWall = component as Wall;
         hitWall.DamageWall(wallDamage);
-        animator.SetTrigger("playerChop");
+
     }
+
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -85,22 +92,25 @@ public class Player : MovingObject
         else if (other.tag == "Food")
         {
             battery += batteryPoints;
-            BatteryText.text = "+" + batteryPoints + "        " + battery + "%";
+            PlusMinusBatteryText.text = "+" + batteryPoints;
+            BatteryText.text = battery + "%";
             //	SoundManager.instance.RandomizeSfx (eatSound1, eatSound2);
             other.gameObject.SetActive(false);
         }
         else if (other.tag == "Soda")
         {
-            //redbull will speed character for amount of time
-            
-            //		SoundManager.instance.RandomizeSfx (drinkSound1, drinkSound2);
+            //SoundManager.instance.RandomizeSfx (drinkSound1, drinkSound2);
+            battery += batteryPoints;
+            PlusMinusBatteryText.text = "+" + 5;
+            BatteryText.text = battery + "%";
+            this.setMoveTime(redbullPoints);
             other.gameObject.SetActive(false);
         }
     }
 
     private void Restart()
     {
-        Application.LoadLevel(Application.loadedLevel);
+        SceneManager.LoadScene(1);
     }
 
 
@@ -108,23 +118,19 @@ public class Player : MovingObject
     {
         animator.SetTrigger("playerHit");
         battery -= loss;
-        BatteryText.text = "-" + loss + "        " + battery + "%";
+        PlusMinusBatteryText.text = "-" + loss;
+        BatteryText.text = battery + "%";
         CheckIfGameOver();
     }
 
     private void CheckIfGameOver()
     {
-        //Check if food point total is less than or equal to zero.
         if (battery <= 0)
         {
-            //Call the PlaySingle function of SoundManager and pass it the gameOverSound as the audio clip to play.
-            		SoundManager.instance.PlaySingle (gameOverSound);
-
-            //Stop the background music.
-            //	SoundManager.instance.musicSource.Stop();
-
-            //Call the GameOver function of GameManager.
+            SoundManager.instance.PlaySingle (gameOverSound);
+            SoundManager.instance.musicSource.Stop();
             GameManager.instance.GameOver();
         }
     }
+
 }

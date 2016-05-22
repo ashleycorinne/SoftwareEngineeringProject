@@ -8,8 +8,9 @@ public class GameManager : MonoBehaviour
 	{
 		public float levelStartDelay = 2f;						
 		public float turnDelay = 0.1f;							
-		public int playerBattery = 100;						
-		public static GameManager instance = null;				
+		public int playerBattery = 100;
+        private GameObject Tom;
+    public static GameManager instance = null;				
 		[HideInInspector] public bool playersTurn = true;			
 		private Text levelText;									
 		private GameObject levelImage;							
@@ -17,9 +18,12 @@ public class GameManager : MonoBehaviour
 		private int level = 1;									
 		private List<Enemy> enemies;							
 		private bool enemiesMoving;								
-		private bool doingSetup = true;							
-		
-		void Awake()
+		private bool doingSetup = true;
+        static bool firstRun = true;
+
+        
+
+    void Awake()
 		{
 			if (instance == null)
 				instance = this;
@@ -28,10 +32,9 @@ public class GameManager : MonoBehaviour
 			DontDestroyOnLoad(gameObject);
 			enemies = new List<Enemy>();
 			boardScript = GetComponent<BoardManager>();
-			InitGame();
+            InitGame();
 		}
 
-    static bool firstRun = true;
     void OnLevelWasLoaded(int index)
 		{
             if (firstRun)
@@ -48,11 +51,20 @@ public class GameManager : MonoBehaviour
 			doingSetup = true;	
 			levelImage = GameObject.Find("LevelImage");
 			levelText = GameObject.Find("LevelText").GetComponent<Text>();
-			levelText.text = "Level " + level;
+        Tom = GameObject.Find("Tom");
+        levelText.text = "Level " + level;
 			levelImage.SetActive(true);
 			Invoke("HideLevelImage", levelStartDelay);
 			enemies.Clear();
 			boardScript.SetupScene(level);
+            if(level == 1)
+            {
+                Tom.SetActive(true);
+            }
+            else
+            {
+                Tom.SetActive(false);
+            }
 		}
 
 		void HideLevelImage()
