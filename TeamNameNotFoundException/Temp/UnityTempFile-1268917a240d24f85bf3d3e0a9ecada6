@@ -76,7 +76,6 @@
 'Assets/Scripts/CharacterManager.cs'
 'Assets/Scripts/Count.cs'
 'Assets/Scripts/Enemy.cs'
-'Assets/Scripts/GameCharacter.cs'
 'Assets/Scripts/GameManager.cs'
 'Assets/Scripts/Loader.cs'
 'Assets/Scripts/MovingObject.cs'

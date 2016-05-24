@@ -72,15 +72,11 @@
 -define:UNITY_EDITOR_64
 -define:UNITY_EDITOR_OSX
 -define:CROSS_PLATFORM_INPUT
-'Assets/Scripts/Ashley.cs'
 'Assets/Scripts/BoardManager.cs'
 'Assets/Scripts/CharacterManager.cs'
 'Assets/Scripts/Count.cs'
 'Assets/Scripts/Enemy.cs'
-'Assets/Scripts/GameCharacter.cs'
 'Assets/Scripts/GameManager.cs'
-'Assets/Scripts/Hero.cs'
-'Assets/Scripts/Juan.cs'
 'Assets/Scripts/Loader.cs'
 'Assets/Scripts/MovingObject.cs'
 'Assets/Scripts/Player.cs'
