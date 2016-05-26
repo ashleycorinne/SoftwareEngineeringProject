@@ -26,16 +26,7 @@ public class Player : MovingObject
     protected override void Start()
     {
         animator = GetComponent<Animator>();
-		animator.runtimeAnimatorController = (RuntimeAnimatorController)Resources.Load ("Assets/Resources/Animations/AnimatorController/Juan");
-
-		/* animator.runtimeAnimatorController = (RuntimeAnimatorController)Resources.Load ("../Animations/AnimatorControllers/Juan",
-			typeof(RuntimeAnimatorController)); */
-
-		/* RuntimeAnimatorController anim = (RuntimeAnimatorController)RuntimeAnimatorController.Instantiate (
-			                                 Resources.Load ("Animations/AnimatorControllers/Player", typeof(RuntimeAnimatorController)));
-		animator.runtimeAnimatorController = anim; */
-
-		Debug.Log (animator.runtimeAnimatorController.ToString ());
+		animator.runtimeAnimatorController = (RuntimeAnimatorController)Resources.Load ("Animations/AnimatorControllers/Andrew");
 
         battery = GameManager.instance.playerBattery;
         BatteryText.text = battery + "%";
