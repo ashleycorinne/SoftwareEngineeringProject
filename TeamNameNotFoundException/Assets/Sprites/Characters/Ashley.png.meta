@@ -1,0 +1,2967 @@
+fileFormatVersion: 2
+guid: 79d3bbe6c2ec68c43b7ee1ada5d6d0e2
+timeCreated: 1462725645
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ashley_0
+    21300002: Ashley_1
+    21300004: Ashley_2
+    21300006: Ashley_3
+    21300008: Ashley_4
+    21300010: Ashley_5
+    21300012: Ashley_6
+    21300014: Ashley_7
+    21300016: Ashley_8
+    21300018: Ashley_9
+    21300020: Ashley_10
+    21300022: Ashley_11
+    21300024: Ashley_12
+    21300026: Ashley_13
+    21300028: Ashley_14
+    21300030: Ashley_15
+    21300032: Ashley_16
+    21300034: Ashley_17
+    21300036: Ashley_18
+    21300038: Ashley_19
+    21300040: Ashley_20
+    21300042: Ashley_21
+    21300044: Ashley_22
+    21300046: Ashley_23
+    21300048: Ashley_24
+    21300050: Ashley_25
+    21300052: Ashley_26
+    21300054: Ashley_27
+    21300056: Ashley_28
+    21300058: Ashley_29
+    21300060: Ashley_30
+    21300062: Ashley_31
+    21300064: Ashley_32
+    21300066: Ashley_33
+    21300068: Ashley_34
+    21300070: Ashley_35
+    21300072: Ashley_36
+    21300074: Ashley_37
+    21300076: Ashley_38
+    21300078: Ashley_39
+    21300080: Ashley_40
+    21300082: Ashley_41
+    21300084: Ashley_42
+    21300086: Ashley_43
+    21300088: Ashley_44
+    21300090: Ashley_45
+    21300092: Ashley_46
+    21300094: Ashley_47
+    21300096: Ashley_48
+    21300098: Ashley_49
+    21300100: Ashley_50
+    21300102: Ashley_51
+    21300104: Ashley_52
+    21300106: Ashley_53
+    21300108: Ashley_54
+    21300110: Ashley_55
+    21300112: Ashley_56
+    21300114: Ashley_57
+    21300116: Ashley_58
+    21300118: Ashley_59
+    21300120: Ashley_60
+    21300122: Ashley_61
+    21300124: Ashley_62
+    21300126: Ashley_63
+    21300128: Ashley_64
+    21300130: Ashley_65
+    21300132: Ashley_66
+    21300134: Ashley_67
+    21300136: Ashley_68
+    21300138: Ashley_69
+    21300140: Ashley_70
+    21300142: Ashley_71
+    21300144: Ashley_72
+    21300146: Ashley_73
+    21300148: Ashley_74
+    21300150: Ashley_75
+    21300152: Ashley_76
+    21300154: Ashley_77
+    21300156: Ashley_78
+    21300158: Ashley_79
+    21300160: Ashley_80
+    21300162: Ashley_81
+    21300164: Ashley_82
+    21300166: Ashley_83
+    21300168: Ashley_84
+    21300170: Ashley_85
+    21300172: Ashley_86
+    21300174: Ashley_87
+    21300176: Ashley_88
+    21300178: Ashley_89
+    21300180: Ashley_90
+    21300182: Ashley_91
+    21300184: Ashley_92
+    21300186: Ashley_93
+    21300188: Ashley_94
+    21300190: Ashley_95
+    21300192: Ashley_96
+    21300194: Ashley_97
+    21300196: Ashley_98
+    21300198: Ashley_99
+    21300200: Ashley_100
+    21300202: Ashley_101
+    21300204: Ashley_102
+    21300206: Ashley_103
+    21300208: Ashley_104
+    21300210: Ashley_105
+    21300212: Ashley_106
+    21300214: Ashley_107
+    21300216: Ashley_108
+    21300218: Ashley_109
+    21300220: Ashley_110
+    21300222: Ashley_111
+    21300224: Ashley_112
+    21300226: Ashley_113
+    21300228: Ashley_114
+    21300230: Ashley_115
+    21300232: Ashley_116
+    21300234: Ashley_117
+    21300236: Ashley_118
+    21300238: Ashley_119
+    21300240: Ashley_120
+    21300242: Ashley_121
+    21300244: Ashley_122
+    21300246: Ashley_123
+    21300248: Ashley_124
+    21300250: Ashley_125
+    21300252: Ashley_126
+    21300254: Ashley_127
+    21300256: Ashley_128
+    21300258: Ashley_129
+    21300260: Ashley_130
+    21300262: Ashley_131
+    21300264: Ashley_132
+    21300266: Ashley_133
+    21300268: Ashley_134
+    21300270: Ashley_135
+    21300272: Ashley_136
+    21300274: Ashley_137
+    21300276: Ashley_138
+    21300278: Ashley_139
+    21300280: Ashley_140
+    21300282: Ashley_141
+    21300284: Ashley_142
+    21300286: Ashley_143
+    21300288: Ashley_144
+    21300290: Ashley_145
+    21300292: Ashley_146
+    21300294: Ashley_147
+    21300296: Ashley_148
+    21300298: Ashley_149
+    21300300: Ashley_150
+    21300302: Ashley_151
+    21300304: Ashley_152
+    21300306: Ashley_153
+    21300308: Ashley_154
+    21300310: Ashley_155
+    21300312: Ashley_156
+    21300314: Ashley_157
+    21300316: Ashley_158
+    21300318: Ashley_159
+    21300320: Ashley_160
+    21300322: Ashley_161
+    21300324: Ashley_162
+    21300326: Ashley_163
+    21300328: Ashley_164
+    21300330: Ashley_165
+    21300332: Ashley_166
+    21300334: Ashley_167
+    21300336: Ashley_168
+    21300338: Ashley_169
+    21300340: Ashley_170
+    21300342: Ashley_171
+    21300344: Ashley_172
+    21300346: Ashley_173
+    21300348: Ashley_174
+    21300350: Ashley_175
+    21300352: Ashley_176
+    21300354: Ashley_177
+    21300356: Ashley_178
+    21300358: Ashley_179
+    21300360: Ashley_180
+    21300362: Ashley_181
+    21300364: Ashley_182
+    21300366: Ashley_183
+    21300368: Ashley_184
+    21300370: Ashley_185
+    21300372: Ashley_186
+    21300374: Ashley_187
+    21300376: Ashley_188
+    21300378: Ashley_189
+    21300380: Ashley_190
+    21300382: Ashley_191
+    21300384: Ashley_192
+    21300386: Ashley_193
+    21300388: Ashley_194
+    21300390: Ashley_195
+    21300392: Ashley_196
+    21300394: Ashley_197
+    21300396: Ashley_198
+    21300398: Ashley_199
+    21300400: Ashley_200
+    21300402: Ashley_201
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ashley_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2048
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2048
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2048
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2048
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.696625, y: 24.833374}
+        - {x: -17.303375, y: 24.833374}
+        - {x: -17.303375, y: -24.166626}
+        - {x: 15.696625, y: -24.166626}
+        - {x: 18.696625, y: -17.166626}
+        - {x: 18.696625, y: 22.833374}
+    - name: Ashley_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2048
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.891296, y: 24.833374}
+        - {x: -14.108704, y: 24.833374}
+        - {x: -22.108704, y: 17.833374}
+        - {x: -22.108704, y: -10.166626}
+        - {x: -17.108704, y: -22.166626}
+        - {x: -11.108704, y: -24.166626}
+        - {x: 9.891296, y: -24.166626}
+        - {x: 15.891296, y: -19.166626}
+        - {x: 23.891296, y: -6.166626}
+        - {x: 23.891296, y: 15.833374}
+    - name: Ashley_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2048
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.932953, y: 24.833374}
+        - {x: -18.067047, y: 24.833374}
+        - {x: -22.067047, y: 23.833374}
+        - {x: -22.067047, y: -6.166626}
+        - {x: -18.067047, y: -22.166626}
+        - {x: -11.067047, y: -24.166626}
+        - {x: 15.932953, y: -24.166626}
+        - {x: 23.932953, y: -8.166626}
+        - {x: 23.932953, y: 19.833374}
+    - name: Ashley_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2048
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.821625, y: 24.833374}
+        - {x: -10.178375, y: 24.833374}
+        - {x: -13.178375, y: 23.833374}
+        - {x: -17.178375, y: 12.833374}
+        - {x: -17.178375, y: -23.166626}
+        - {x: -14.178375, y: -24.166626}
+        - {x: 13.821625, y: -24.166626}
+        - {x: 16.821625, y: -20.166626}
+        - {x: 18.821625, y: -13.166626}
+        - {x: 18.821625, y: 11.833374}
+    - name: Ashley_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1984
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1984
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1984
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1984
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1984
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.353516, y: 25.291748}
+        - {x: -16.353516, y: 16.291748}
+        - {x: -16.353516, y: -16.708252}
+        - {x: -14.353516, y: -22.708252}
+        - {x: -9.353516, y: -24.708252}
+        - {x: 10.646484, y: -24.708252}
+        - {x: 17.646484, y: -11.708252}
+        - {x: 17.646484, y: 11.291748}
+        - {x: 9.646484, y: 25.291748}
+    - name: Ashley_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1984
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.311829, y: 25.291748}
+        - {x: -16.311829, y: 16.291748}
+        - {x: -16.311829, y: -13.708252}
+        - {x: -12.311829, y: -24.708252}
+        - {x: 11.688171, y: -24.708252}
+        - {x: 17.688171, y: -2.708252}
+        - {x: 17.688171, y: 16.291748}
+        - {x: 9.688171, y: 25.291748}
+    - name: Ashley_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1984
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1920
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1920
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1920
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1920
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.666016, y: 25.75}
+        - {x: -10.333984, y: 25.75}
+        - {x: -16.333984, y: 14.75}
+        - {x: -16.333984, y: -17.25}
+        - {x: -12.333984, y: -25.25}
+        - {x: 11.666016, y: -25.25}
+        - {x: 17.666016, y: -15.25}
+        - {x: 17.666016, y: 15.75}
+        - {x: 15.666016, y: 23.75}
+    - name: Ashley_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1920
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.108704, y: 25.75}
+        - {x: -17.108704, y: 24.75}
+        - {x: -22.108704, y: 12.75}
+        - {x: -22.108704, y: -3.25}
+        - {x: -14.108704, y: -18.25}
+        - {x: -10.108704, y: -25.25}
+        - {x: 15.891296, y: -25.25}
+        - {x: 23.891296, y: -10.25}
+        - {x: 23.891296, y: 18.75}
+        - {x: 16.891296, y: 25.75}
+    - name: Ashley_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1920
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.067047, y: 25.75}
+        - {x: -22.067047, y: -23.25}
+        - {x: -16.067047, y: -25.25}
+        - {x: 14.932953, y: -25.25}
+        - {x: 23.932953, y: -6.25}
+        - {x: 23.932953, y: 22.75}
+        - {x: 20.932953, y: 25.75}
+    - name: Ashley_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1920
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.791016, y: 24.75}
+        - {x: 9.791016, y: 25.75}
+        - {x: -7.2089844, y: 25.75}
+        - {x: -13.208984, y: 20.75}
+        - {x: -16.208984, y: 13.75}
+        - {x: -16.208984, y: -15.25}
+        - {x: -12.208984, y: -25.25}
+        - {x: 10.791016, y: -25.25}
+        - {x: 15.791016, y: -18.25}
+        - {x: 17.791016, y: -13.25}
+        - {x: 17.791016, y: 4.75}
+    - name: Ashley_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1856
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1856
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1856
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1856
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1856
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.76889, y: 25.208374}
+        - {x: -8.23111, y: 25.208374}
+        - {x: -12.23111, y: 24.208374}
+        - {x: -16.23111, y: 10.208374}
+        - {x: -16.23111, y: -5.791626}
+        - {x: -7.2311096, y: -24.791626}
+        - {x: 12.76889, y: -24.791626}
+        - {x: 13.76889, y: -21.791626}
+        - {x: 17.76889, y: -8.791626}
+        - {x: 17.76889, y: 14.208374}
+    - name: Ashley_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1856
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.810547, y: 25.208374}
+        - {x: -6.189453, y: 25.208374}
+        - {x: -16.189453, y: 17.208374}
+        - {x: -16.189453, y: -4.791626}
+        - {x: -11.189453, y: -24.791626}
+        - {x: 12.810547, y: -24.791626}
+        - {x: 14.810547, y: -22.791626}
+        - {x: 17.810547, y: -2.791626}
+        - {x: 17.810547, y: 14.208374}
+    - name: Ashley_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1856
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1791
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1791
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1790
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1790
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1790
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1790
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1790
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_35
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1790
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1728
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1728
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1728
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1728
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1728
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1728
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1728
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1728
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1664
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1664
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1665
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1665
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1665
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1665
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1665
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1665
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1600
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1600
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1600
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1600
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1600
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_57
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1600
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1600
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1600
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1536
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1536
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1535
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1534
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1535
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1536
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1535
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1534
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1535
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_69
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1472
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_70
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1472
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1473
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1473
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1472
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_74
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1472
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_75
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1472
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_76
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1472
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_77
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1472
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1408
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1408
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1407
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1407
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1407
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1408
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1407
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_85
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1407
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1407
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1344
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_88
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1344
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_89
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1345
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1345
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1344
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1344
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1344
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1344
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_95
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1344
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1280
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1280
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_98
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1280
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1280
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_100
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1280
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.914703, y: 26.333374}
+        - {x: -16.914703, y: 19.333374}
+        - {x: -16.914703, y: -17.666626}
+        - {x: -14.914703, y: -24.666626}
+        - {x: 5.0852966, y: -24.666626}
+        - {x: 12.085297, y: -16.666626}
+        - {x: 18.085297, y: -6.666626}
+        - {x: 18.085297, y: 26.333374}
+    - name: Ashley_101
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1280
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.373047, y: 26.333374}
+        - {x: -18.373047, y: 17.333374}
+        - {x: -18.373047, y: -17.666626}
+        - {x: -16.373047, y: -24.666626}
+        - {x: 11.626953, y: -24.666626}
+        - {x: 19.626953, y: -15.666626}
+        - {x: 19.626953, y: 13.333374}
+        - {x: 6.626953, y: 26.333374}
+    - name: Ashley_102
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1216
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1216
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_104
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1216
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1216
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.211578, y: 26.291748}
+        - {x: -16.211578, y: 13.291748}
+        - {x: -16.211578, y: -18.708252}
+        - {x: -8.211578, y: -24.708252}
+        - {x: 12.788422, y: -24.708252}
+        - {x: 17.788422, y: -16.708252}
+        - {x: 17.788422, y: 9.291748}
+        - {x: 13.788422, y: 26.291748}
+    - name: Ashley_106
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1216
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.360687, y: 25.291748}
+        - {x: 13.360687, y: 26.291748}
+        - {x: -5.6393127, y: 26.291748}
+        - {x: -16.639313, y: 12.291748}
+        - {x: -16.639313, y: -14.708252}
+        - {x: -5.6393127, y: -24.708252}
+        - {x: 13.360687, y: -24.708252}
+        - {x: 18.360687, y: -16.708252}
+        - {x: 18.360687, y: 9.291748}
+    - name: Ashley_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1216
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.128235, y: 26.291748}
+        - {x: -16.128235, y: 14.291748}
+        - {x: -16.128235, y: -1.708252}
+        - {x: -10.128235, y: -23.708252}
+        - {x: -5.128235, y: -24.708252}
+        - {x: 17.871765, y: -24.708252}
+        - {x: 17.871765, y: 24.291748}
+        - {x: 14.871765, y: 26.291748}
+    - name: Ashley_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_109
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1152
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1152
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1152
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1152
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1152
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.373047, y: 26.75}
+        - {x: -17.373047, y: 23.75}
+        - {x: -17.373047, y: -25.25}
+        - {x: 10.626953, y: -25.25}
+        - {x: 18.626953, y: -23.25}
+        - {x: 18.626953, y: 8.75}
+        - {x: 7.626953, y: 26.75}
+    - name: Ashley_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1088
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_115
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1088
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1088
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1088
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.543625, y: 26.208374}
+        - {x: -11.456375, y: 26.208374}
+        - {x: -16.456375, y: 17.208374}
+        - {x: -16.456375, y: -17.791626}
+        - {x: -11.456375, y: -24.791626}
+        - {x: 7.543625, y: -24.791626}
+        - {x: 10.543625, y: -23.791626}
+        - {x: 17.543625, y: -9.791626}
+        - {x: 17.543625, y: 6.208374}
+    - name: Ashley_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1088
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.0852966, y: 26.208374}
+        - {x: -11.914703, y: 26.208374}
+        - {x: -16.914703, y: 15.208374}
+        - {x: -16.914703, y: -22.791626}
+        - {x: -14.914703, y: -24.791626}
+        - {x: 9.085297, y: -24.791626}
+        - {x: 18.085297, y: -7.791626}
+        - {x: 18.085297, y: 10.208374}
+        - {x: 15.085297, y: 11.208374}
+    - name: Ashley_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1088
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.373047, y: 26.208374}
+        - {x: -16.373047, y: 16.208374}
+        - {x: -16.373047, y: -23.791626}
+        - {x: -15.373047, y: -24.791626}
+        - {x: 11.626953, y: -24.791626}
+        - {x: 17.626953, y: -11.791626}
+        - {x: 17.626953, y: 12.208374}
+        - {x: 6.626953, y: 26.208374}
+    - name: Ashley_120
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1024
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_121
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1024
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_122
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1022
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_123
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1022
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_124
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1022
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_125
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1022
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_126
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1022
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_127
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1022
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_128
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1022
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_129
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1022
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_130
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1022
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_131
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1022
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1022
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_133
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 960
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_134
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 960
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_135
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 960
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.314453, y: 26.125}
+        - {x: -16.314453, y: 14.125}
+        - {x: -16.314453, y: -24.875}
+        - {x: 17.685547, y: -24.875}
+        - {x: 17.685547, y: 26.125}
+    - name: Ashley_136
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 960
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.288422, y: 25.125}
+        - {x: -3.7115784, y: 25.125}
+        - {x: -8.711578, y: 19.125}
+        - {x: -17.711578, y: 1.125}
+        - {x: -17.711578, y: -11.875}
+        - {x: -7.7115784, y: -23.875}
+        - {x: 12.288422, y: -23.875}
+        - {x: 16.288422, y: -18.875}
+        - {x: 19.288422, y: -13.875}
+        - {x: 19.288422, y: 14.125}
+    - name: Ashley_137
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 960
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.330078, y: 26.125}
+        - {x: -5.669922, y: 26.125}
+        - {x: -17.669922, y: 14.125}
+        - {x: -17.669922, y: -5.875}
+        - {x: -8.669922, y: -24.875}
+        - {x: 13.330078, y: -24.875}
+        - {x: 15.330078, y: -21.875}
+        - {x: 19.330078, y: -8.875}
+        - {x: 19.330078, y: 14.125}
+    - name: Ashley_138
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 960
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.0976562, y: 26.125}
+        - {x: -16.097656, y: 17.125}
+        - {x: -16.097656, y: -8.875}
+        - {x: -8.097656, y: -24.875}
+        - {x: 16.902344, y: -24.875}
+        - {x: 17.902344, y: -23.875}
+        - {x: 17.902344, y: 25.125}
+        - {x: 14.902344, y: 26.125}
+    - name: Ashley_139
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 960
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.055969, y: 26.125}
+        - {x: -17.05597, y: 19.125}
+        - {x: -17.05597, y: -18.875}
+        - {x: -6.055969, y: -24.875}
+        - {x: 18.94403, y: -24.875}
+        - {x: 18.94403, y: 20.125}
+        - {x: 14.944031, y: 26.125}
+    - name: Ashley_140
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 960
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.955078, y: 23.125}
+        - {x: 11.955078, y: 26.125}
+        - {x: -6.044922, y: 26.125}
+        - {x: -12.044922, y: 22.125}
+        - {x: -18.044922, y: 10.125}
+        - {x: -18.044922, y: -4.875}
+        - {x: -8.044922, y: -22.875}
+        - {x: -3.0449219, y: -24.875}
+        - {x: 14.955078, y: -24.875}
+        - {x: 14.955078, y: -7.875}
+        - {x: 19.955078, y: 3.125}
+        - {x: 19.955078, y: 16.125}
+    - name: Ashley_141
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 960
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.003235, y: 26.125}
+        - {x: -19.003235, y: 18.125}
+        - {x: -19.003235, y: -3.875}
+        - {x: -7.003235, y: -24.875}
+        - {x: 15.996765, y: -24.875}
+        - {x: 20.996765, y: -14.875}
+        - {x: 20.996765, y: 19.125}
+        - {x: 12.996765, y: 26.125}
+    - name: Ashley_142
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 960
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.961548, y: 26.125}
+        - {x: -17.961548, y: 21.125}
+        - {x: -17.961548, y: -14.875}
+        - {x: -14.961548, y: -24.875}
+        - {x: 15.038452, y: -24.875}
+        - {x: 18.038452, y: -16.875}
+        - {x: 18.038452, y: 18.125}
+        - {x: 12.038452, y: 26.125}
+    - name: Ashley_143
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 960
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.4199219, y: 26.125}
+        - {x: -4.419922, y: 25.125}
+        - {x: -17.419922, y: 14.125}
+        - {x: -17.419922, y: -15.875}
+        - {x: -14.419922, y: -24.875}
+        - {x: 17.580078, y: -24.875}
+        - {x: 17.580078, y: 26.125}
+    - name: Ashley_144
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 960
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.121765, y: 26.125}
+        - {x: -6.878235, y: 26.125}
+        - {x: -17.878235, y: 16.125}
+        - {x: -17.878235, y: -7.875}
+        - {x: -8.878235, y: -24.875}
+        - {x: 14.121765, y: -24.875}
+        - {x: 18.121765, y: -12.875}
+        - {x: 18.121765, y: 17.125}
+        - {x: 15.121765, y: 22.125}
+    - name: Ashley_145
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 960
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.836548, y: 26.125}
+        - {x: -17.836548, y: 15.125}
+        - {x: -17.836548, y: -7.875}
+        - {x: -8.836548, y: -24.875}
+        - {x: 18.163452, y: -24.875}
+        - {x: 18.163452, y: 24.125}
+        - {x: 14.163452, y: 26.125}
+    - name: Ashley_146
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 896
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 895
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 897
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 896
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 896
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 896
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 896
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 896
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 896
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 896
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 896
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 896
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 896
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 832
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 832
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 832
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.40625, y: 25.541687}
+        - {x: -16.40625, y: 23.541687}
+        - {x: -16.40625, y: -10.458313}
+        - {x: -11.40625, y: -21.458313}
+        - {x: -9.40625, y: -24.458313}
+        - {x: 13.59375, y: -24.458313}
+        - {x: 17.59375, y: -13.458313}
+        - {x: 17.59375, y: 10.541687}
+        - {x: 9.59375, y: 25.541687}
+    - name: Ashley_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 832
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.833984, y: 25.041687}
+        - {x: -17.833984, y: -13.958313}
+        - {x: -12.833984, y: -23.958313}
+        - {x: 9.166016, y: -23.958313}
+        - {x: 19.166016, y: -14.958313}
+        - {x: 19.166016, y: 10.041687}
+        - {x: 12.166016, y: 25.041687}
+    - name: Ashley_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 832
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.207703, y: 25.541687}
+        - {x: -10.792297, y: 25.541687}
+        - {x: -13.792297, y: 22.541687}
+        - {x: -17.792297, y: 13.541687}
+        - {x: -17.792297, y: -10.458313}
+        - {x: -13.792297, y: -24.458313}
+        - {x: 10.207703, y: -24.458313}
+        - {x: 19.207703, y: -1.458313}
+        - {x: 19.207703, y: 8.541687}
+        - {x: 17.207703, y: 10.541687}
+    - name: Ashley_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 832
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.626953, y: 14.541687}
+        - {x: 9.626953, y: 25.541687}
+        - {x: -14.373047, y: 25.541687}
+        - {x: -16.373047, y: 21.541687}
+        - {x: -16.373047, y: -23.458313}
+        - {x: -15.373047, y: -24.458313}
+        - {x: 4.626953, y: -24.458313}
+        - {x: 5.626953, y: -21.458313}
+        - {x: 16.626953, y: -1.458313}
+        - {x: 17.626953, y: 0.541687}
+    - name: Ashley_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 832
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.729828, y: 25.541687}
+        - {x: -17.270172, y: 25.541687}
+        - {x: -17.270172, y: -24.458313}
+        - {x: 8.729828, y: -24.458313}
+        - {x: 18.729828, y: -2.458313}
+        - {x: 18.729828, y: 19.541687}
+    - name: Ashley_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 832
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.136719, y: 25.541687}
+        - {x: -18.136719, y: -24.458313}
+        - {x: 8.863281, y: -24.458313}
+        - {x: 12.863281, y: -23.458313}
+        - {x: 19.863281, y: -2.458313}
+        - {x: 19.863281, y: 16.541687}
+        - {x: 13.863281, y: 25.541687}
+    - name: Ashley_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 832
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.033844, y: -3.458313}
+        - {x: -13.033844, y: -22.458313}
+        - {x: -11.033844, y: -24.458313}
+        - {x: 20.966156, y: -24.458313}
+        - {x: 20.966156, y: 25.541687}
+        - {x: -15.033844, y: 25.541687}
+        - {x: -19.033844, y: 10.541687}
+    - name: Ashley_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 832
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.583984, y: 25.541687}
+        - {x: -17.583984, y: 14.541687}
+        - {x: -17.583984, y: -13.458313}
+        - {x: -12.583984, y: -24.458313}
+        - {x: 10.416016, y: -24.458313}
+        - {x: 19.416016, y: -10.458313}
+        - {x: 19.416016, y: 10.541687}
+        - {x: 9.416016, y: 25.541687}
+    - name: Ashley_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 832
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.927124, y: 25.541687}
+        - {x: -12.072876, y: 25.541687}
+        - {x: -17.072876, y: 14.541687}
+        - {x: -17.072876, y: -20.458313}
+        - {x: -16.072876, y: -22.458313}
+        - {x: -14.072876, y: -24.458313}
+        - {x: 7.927124, y: -24.458313}
+        - {x: 8.927124, y: -21.458313}
+        - {x: 18.927124, y: -11.458313}
+        - {x: 18.927124, y: 17.541687}
+    - name: Ashley_170
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 832
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.4993896, y: 25.541687}
+        - {x: -17.50061, y: 25.541687}
+        - {x: -17.50061, y: -24.458313}
+        - {x: 10.49939, y: -24.458313}
+        - {x: 19.49939, y: -8.458313}
+        - {x: 19.49939, y: 9.541687}
+        - {x: 18.49939, y: 12.541687}
+    - name: Ashley_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 832
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.4798584, y: 25.541687}
+        - {x: -10.520142, y: 25.541687}
+        - {x: -14.520142, y: 19.541687}
+        - {x: -16.520142, y: 17.541687}
+        - {x: -16.520142, y: -24.458313}
+        - {x: 9.479858, y: -24.458313}
+        - {x: 18.479858, y: -8.458313}
+        - {x: 18.479858, y: 9.541687}
+        - {x: 17.479858, y: 12.541687}
+    - name: Ashley_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 767
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_173
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 768
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 768
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 769
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 770
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_177
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 767
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.28125, y: 21.03064}
+        - {x: -17.28125, y: 19.03064}
+        - {x: -17.28125, y: -19.96936}
+        - {x: 18.71875, y: -19.96936}
+        - {x: 18.71875, y: 15.03064}
+        - {x: 16.71875, y: 21.03064}
+    - name: Ashley_178
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 640
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_179
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 640
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_180
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 640
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.8919067, y: 24.916687}
+        - {x: -8.891907, y: 23.916687}
+        - {x: -17.891907, y: 3.916687}
+        - {x: -17.891907, y: -12.083313}
+        - {x: -11.891907, y: -21.083313}
+        - {x: -4.8919067, y: -24.083313}
+        - {x: 18.108093, y: -24.083313}
+        - {x: 18.108093, y: 24.916687}
+    - name: Ashley_181
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 640
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_182
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 640
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.539673, y: 25.416687}
+        - {x: -21.539673, y: 15.416687}
+        - {x: -21.539673, y: -24.583313}
+        - {x: 6.460327, y: -24.583313}
+        - {x: 20.460327, y: 2.416687}
+        - {x: 23.460327, y: 12.416687}
+        - {x: 23.460327, y: 25.416687}
+    - name: Ashley_183
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 640
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.414673, y: 25.416687}
+        - {x: -30.414673, y: 21.416687}
+        - {x: -30.414673, y: -24.583313}
+        - {x: 20.585327, y: -24.583313}
+        - {x: 30.585327, y: -21.583313}
+        - {x: 30.585327, y: 23.416687}
+        - {x: 27.585327, y: 25.416687}
+    - name: Ashley_184
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 448
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.796875, y: 25.291687}
+        - {x: -4.203125, y: 23.291687}
+        - {x: -17.203125, y: -2.708313}
+        - {x: -17.203125, y: -22.708313}
+        - {x: -11.203125, y: -24.708313}
+        - {x: 18.796875, y: -24.708313}
+        - {x: 18.796875, y: 25.291687}
+    - name: Ashley_185
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 448
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_186
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 448
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_187
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 448
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.919922, y: 25.291687}
+        - {x: -16.919922, y: -24.708313}
+        - {x: 17.080078, y: -24.708313}
+        - {x: 17.080078, y: 25.291687}
+    - name: Ashley_188
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 448
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.2441406, y: 25.291687}
+        - {x: -25.24414, y: 13.291687}
+        - {x: -25.24414, y: -12.708313}
+        - {x: -24.24414, y: -15.708313}
+        - {x: -1.2441406, y: -24.708313}
+        - {x: 26.75586, y: -24.708313}
+        - {x: 26.75586, y: 2.291687}
+        - {x: 22.75586, y: 25.291687}
+    - name: Ashley_189
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 448
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.527344, y: -1.708313}
+        - {x: 4.4726562, y: -24.708313}
+        - {x: 25.472656, y: -24.708313}
+        - {x: 28.472656, y: -20.708313}
+        - {x: 28.472656, y: 25.291687}
+        - {x: -19.527344, y: 25.291687}
+        - {x: -26.527344, y: 24.291687}
+    - name: Ashley_190
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 256
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_191
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 256
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.047516, y: 24.666672}
+        - {x: -18.047516, y: -2.3333282}
+        - {x: -18.047516, y: -18.333328}
+        - {x: -9.047516, y: -24.333328}
+        - {x: 19.952484, y: -24.333328}
+        - {x: 19.952484, y: 20.666672}
+        - {x: 18.952484, y: 24.666672}
+    - name: Ashley_192
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 256
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.922516, y: 25.166672}
+        - {x: -17.922516, y: 10.166672}
+        - {x: -17.922516, y: -8.833328}
+        - {x: -9.922516, y: -24.833328}
+        - {x: 18.077484, y: -24.833328}
+        - {x: 18.077484, y: 23.166672}
+        - {x: 17.077484, y: 25.166672}
+    - name: Ashley_193
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 256
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.419922, y: -25.333328}
+        - {x: 17.580078, y: -25.333328}
+        - {x: 17.580078, y: 25.666672}
+        - {x: -12.419922, y: 25.666672}
+        - {x: -17.419922, y: 3.6666718}
+    - name: Ashley_194
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 249
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.9296875, y: 29.38086}
+        - {x: -14.0703125, y: 29.38086}
+        - {x: -20.070312, y: 27.38086}
+        - {x: -20.070312, y: -27.61914}
+        - {x: -16.070312, y: -28.61914}
+        - {x: 21.929688, y: -28.61914}
+        - {x: 21.929688, y: -2.6191406}
+        - {x: 13.9296875, y: 25.38086}
+    - name: Ashley_195
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 256
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5853271, y: 25.666672}
+        - {x: -28.414673, y: 25.666672}
+        - {x: -28.414673, y: -25.333328}
+        - {x: 15.585327, y: -25.333328}
+        - {x: 28.585327, y: -16.333328}
+        - {x: 28.585327, y: -5.3333282}
+        - {x: 27.585327, y: -2.3333282}
+    - name: Ashley_196
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 64
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.4296875, y: 25.041668}
+        - {x: -14.5703125, y: 25.041668}
+        - {x: -16.570312, y: 21.041668}
+        - {x: -17.570312, y: 18.041668}
+        - {x: -17.570312, y: -24.958332}
+        - {x: 10.4296875, y: -24.958332}
+        - {x: 18.429688, y: -18.958332}
+        - {x: 18.429688, y: -8.958332}
+        - {x: 11.4296875, y: 22.041668}
+    - name: Ashley_197
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 64
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_198
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 64
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ashley_199
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 64
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.835327, y: 25.041668}
+        - {x: -8.164673, y: 25.041668}
+        - {x: -13.164673, y: 21.041668}
+        - {x: -16.164673, y: 1.0416679}
+        - {x: -16.164673, y: -24.958332}
+        - {x: 11.835327, y: -24.958332}
+        - {x: 17.835327, y: -18.958332}
+        - {x: 17.835327, y: 9.041668}
+        - {x: 14.835327, y: 20.041668}
+    - name: Ashley_200
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 64
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.539673, y: 25.041668}
+        - {x: -24.539673, y: 15.041668}
+        - {x: -24.539673, y: -22.958332}
+        - {x: -22.539673, y: -24.958332}
+        - {x: 7.460327, y: -24.958332}
+        - {x: 26.460327, y: -9.958332}
+        - {x: 26.460327, y: 15.041668}
+        - {x: 15.460327, y: 25.041668}
+    - name: Ashley_201
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 64
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.585327, y: 12.041668}
+        - {x: 11.585327, y: 14.041668}
+        - {x: -1.4146729, y: 25.041668}
+        - {x: -23.414673, y: 25.041668}
+        - {x: -27.414673, y: 23.041668}
+        - {x: -27.414673, y: -24.958332}
+        - {x: 7.585327, y: -24.958332}
+        - {x: 27.585327, y: -10.958332}
+        - {x: 27.585327, y: 10.041668}
+        - {x: 25.585327, y: 11.041668}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

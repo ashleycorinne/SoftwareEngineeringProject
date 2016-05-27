@@ -1,0 +1,3048 @@
+fileFormatVersion: 2
+guid: c6fb3869641fad344b0fe31a967f05ba
+timeCreated: 1463869665
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Juan_0
+    21300002: Juan_1
+    21300004: Juan_2
+    21300006: Juan_3
+    21300008: Juan_4
+    21300010: Juan_5
+    21300012: Juan_6
+    21300014: Juan_7
+    21300016: Juan_8
+    21300018: Juan_9
+    21300020: Juan_10
+    21300022: Juan_11
+    21300024: Juan_12
+    21300026: Juan_13
+    21300028: Juan_14
+    21300030: Juan_15
+    21300032: Juan_16
+    21300034: Juan_17
+    21300036: Juan_18
+    21300038: Juan_19
+    21300040: Juan_20
+    21300042: Juan_21
+    21300044: Juan_22
+    21300046: Juan_23
+    21300048: Juan_24
+    21300050: Juan_25
+    21300052: Juan_26
+    21300054: Juan_27
+    21300056: Juan_28
+    21300058: Juan_29
+    21300060: Juan_30
+    21300062: Juan_31
+    21300064: Juan_32
+    21300066: Juan_33
+    21300068: Juan_34
+    21300070: Juan_35
+    21300072: Juan_36
+    21300074: Juan_37
+    21300076: Juan_38
+    21300078: Juan_39
+    21300080: Juan_40
+    21300082: Juan_41
+    21300084: Juan_42
+    21300086: Juan_43
+    21300088: Juan_44
+    21300090: Juan_45
+    21300092: Juan_46
+    21300094: Juan_47
+    21300096: Juan_48
+    21300098: Juan_49
+    21300100: Juan_50
+    21300102: Juan_51
+    21300104: Juan_52
+    21300106: Juan_53
+    21300108: Juan_54
+    21300110: Juan_55
+    21300112: Juan_56
+    21300114: Juan_57
+    21300116: Juan_58
+    21300118: Juan_59
+    21300120: Juan_60
+    21300122: Juan_61
+    21300124: Juan_62
+    21300126: Juan_63
+    21300128: Juan_64
+    21300130: Juan_65
+    21300132: Juan_66
+    21300134: Juan_67
+    21300136: Juan_68
+    21300138: Juan_69
+    21300140: Juan_70
+    21300142: Juan_71
+    21300144: Juan_72
+    21300146: Juan_73
+    21300148: Juan_74
+    21300150: Juan_75
+    21300152: Juan_76
+    21300154: Juan_77
+    21300156: Juan_78
+    21300158: Juan_79
+    21300160: Juan_80
+    21300162: Juan_81
+    21300164: Juan_82
+    21300166: Juan_83
+    21300168: Juan_84
+    21300170: Juan_85
+    21300172: Juan_86
+    21300174: Juan_87
+    21300176: Juan_88
+    21300178: Juan_89
+    21300180: Juan_90
+    21300182: Juan_91
+    21300184: Juan_92
+    21300186: Juan_93
+    21300188: Juan_94
+    21300190: Juan_95
+    21300192: Juan_96
+    21300194: Juan_97
+    21300196: Juan_98
+    21300198: Juan_99
+    21300200: Juan_100
+    21300202: Juan_101
+    21300204: Juan_102
+    21300206: Juan_103
+    21300208: Juan_104
+    21300210: Juan_105
+    21300212: Juan_106
+    21300214: Juan_107
+    21300216: Juan_108
+    21300218: Juan_109
+    21300220: Juan_110
+    21300222: Juan_111
+    21300224: Juan_112
+    21300226: Juan_113
+    21300228: Juan_114
+    21300230: Juan_115
+    21300232: Juan_116
+    21300234: Juan_117
+    21300236: Juan_118
+    21300238: Juan_119
+    21300240: Juan_120
+    21300242: Juan_121
+    21300244: Juan_122
+    21300246: Juan_123
+    21300248: Juan_124
+    21300250: Juan_125
+    21300252: Juan_126
+    21300254: Juan_127
+    21300256: Juan_128
+    21300258: Juan_129
+    21300260: Juan_130
+    21300262: Juan_131
+    21300264: Juan_132
+    21300266: Juan_133
+    21300268: Juan_134
+    21300270: Juan_135
+    21300272: Juan_136
+    21300274: Juan_137
+    21300276: Juan_138
+    21300278: Juan_139
+    21300280: Juan_140
+    21300282: Juan_141
+    21300284: Juan_142
+    21300286: Juan_143
+    21300288: Juan_144
+    21300290: Juan_145
+    21300292: Juan_146
+    21300294: Juan_147
+    21300296: Juan_148
+    21300298: Juan_149
+    21300300: Juan_150
+    21300302: Juan_151
+    21300304: Juan_152
+    21300306: Juan_153
+    21300308: Juan_154
+    21300310: Juan_155
+    21300312: Juan_156
+    21300314: Juan_157
+    21300316: Juan_158
+    21300318: Juan_159
+    21300320: Juan_160
+    21300322: Juan_161
+    21300324: Juan_162
+    21300326: Juan_163
+    21300328: Juan_164
+    21300330: Juan_165
+    21300332: Juan_166
+    21300334: Juan_167
+    21300336: Juan_168
+    21300338: Juan_169
+    21300340: Juan_170
+    21300342: Juan_171
+    21300344: Juan_172
+    21300346: Juan_173
+    21300348: Juan_174
+    21300350: Juan_175
+    21300352: Juan_176
+    21300354: Juan_177
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Juan_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1282
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1282
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -18, y: 11}
+        - {x: -18, y: -17}
+        - {x: -16, y: -24}
+        - {x: 17, y: -24}
+        - {x: 18, y: -22}
+        - {x: 18, y: 9}
+        - {x: 12, y: 24}
+    - name: Juan_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 24}
+        - {x: -25, y: 12}
+        - {x: -25, y: -18}
+        - {x: -17, y: -24}
+        - {x: 15, y: -24}
+        - {x: 25, y: -7}
+        - {x: 25, y: 11}
+        - {x: 11, y: 24}
+    - name: Juan_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 24}
+        - {x: -10, y: 24}
+        - {x: -13, y: 17}
+        - {x: -13, y: 13}
+        - {x: -15, y: 16}
+        - {x: -22, y: 18}
+        - {x: -24, y: 18}
+        - {x: -24, y: -5}
+        - {x: -18, y: -24}
+        - {x: 20, y: -24}
+        - {x: 24, y: -7}
+        - {x: 24, y: 15}
+        - {x: 22, y: 18}
+    - name: Juan_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -18, y: 11}
+        - {x: -18, y: -17}
+        - {x: -16, y: -24}
+        - {x: 17, y: -24}
+        - {x: 18, y: -22}
+        - {x: 18, y: 9}
+        - {x: 12, y: 24}
+    - name: Juan_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1217
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1217
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1217
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1217
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1217
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 24.5}
+        - {x: -16.5, y: -24.5}
+        - {x: 6.5, y: -24.5}
+        - {x: 9.5, y: -23.5}
+        - {x: 16.5, y: -4.5}
+        - {x: 16.5, y: 19.5}
+        - {x: 13.5, y: 24.5}
+    - name: Juan_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1217
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 24.5}
+        - {x: -16.5, y: 24.5}
+        - {x: -16.5, y: -24.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 16.5, y: -12.5}
+        - {x: 16.5, y: 18.5}
+    - name: Juan_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1217
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1152
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1152
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 25.5}
+        - {x: -18, y: 25.5}
+        - {x: -18, y: -25.5}
+        - {x: 18, y: -25.5}
+        - {x: 18, y: 8.5}
+    - name: Juan_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1152
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -25.5}
+        - {x: 25, y: -13.5}
+        - {x: 25, y: 23.5}
+        - {x: 20, y: 25.5}
+        - {x: -23, y: 25.5}
+        - {x: -25, y: 21.5}
+        - {x: -25, y: -19.5}
+        - {x: -19, y: -25.5}
+        - {x: -4, y: -25.5}
+        - {x: -1, y: -22.5}
+        - {x: -1, y: -17.5}
+        - {x: 3, y: -25.5}
+    - name: Juan_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1152
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -25.5}
+        - {x: 13, y: -25.5}
+        - {x: 17, y: -24.5}
+        - {x: 24, y: 2.5}
+        - {x: 24, y: 25.5}
+        - {x: -24, y: 25.5}
+        - {x: -24, y: 1.5}
+        - {x: -17, y: -17.5}
+        - {x: -13, y: -25.5}
+        - {x: -4, y: -25.5}
+        - {x: -1, y: -22.5}
+        - {x: -1, y: -17.5}
+    - name: Juan_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1152
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -25.5}
+        - {x: 13, y: -25.5}
+        - {x: 17, y: -17.5}
+        - {x: 17, y: 8.5}
+        - {x: 10, y: 25.5}
+        - {x: -7, y: 25.5}
+        - {x: -14, y: 19.5}
+        - {x: -17, y: 13.5}
+        - {x: -17, y: -25.5}
+        - {x: -3, y: -25.5}
+        - {x: -1, y: -22.5}
+        - {x: -1, y: -17.5}
+        - {x: 1, y: -21.5}
+    - name: Juan_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1089
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1089
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1089
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1089
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1089
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 24.5}
+        - {x: -16.5, y: 11.5}
+        - {x: -16.5, y: -17.5}
+        - {x: -13.5, y: -24.5}
+        - {x: 16.5, y: -24.5}
+        - {x: 16.5, y: 22.5}
+        - {x: 12.5, y: 24.5}
+    - name: Juan_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1089
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 24.5}
+        - {x: -10.5, y: 24.5}
+        - {x: -16.5, y: 18.5}
+        - {x: -16.5, y: -0.5}
+        - {x: -9.5, y: -22.5}
+        - {x: -5.5, y: -24.5}
+        - {x: 16.5, y: -24.5}
+        - {x: 16.5, y: 20.5}
+        - {x: 14.5, y: 23.5}
+    - name: Juan_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1089
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1026
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 24}
+        - {x: -7, y: 24}
+        - {x: -24, y: 8}
+        - {x: -27, y: -2}
+        - {x: -27, y: -15}
+        - {x: -10, y: -24}
+        - {x: 17, y: -24}
+        - {x: 27, y: -18}
+        - {x: 27, y: -3}
+    - name: Juan_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1024
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 24.5}
+        - {x: -25.5, y: 7.5}
+        - {x: -25.5, y: -13.5}
+        - {x: -8.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 25.5, y: -23.5}
+        - {x: 25.5, y: -8.5}
+        - {x: 12.5, y: 24.5}
+    - name: Juan_30
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1024
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -22}
+        - {x: 19, y: -25}
+        - {x: 20, y: -25}
+        - {x: 20, y: 19}
+        - {x: 12, y: 25}
+        - {x: -14, y: 25}
+        - {x: -20, y: 23}
+        - {x: -20, y: -1}
+        - {x: -19, y: -8}
+        - {x: -14, y: -24}
+        - {x: -12, y: -25}
+        - {x: 14, y: -25}
+        - {x: 14, y: -20}
+        - {x: 11, y: -17}
+    - name: Juan_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1024
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1024
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1024
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1024
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1024
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 961
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 24.5}
+        - {x: -4.5, y: 24.5}
+        - {x: -25.5, y: 8.5}
+        - {x: -25.5, y: -1.5}
+        - {x: -11.5, y: -22.5}
+        - {x: -9.5, y: -24.5}
+        - {x: 22.5, y: -24.5}
+        - {x: 25.5, y: -23.5}
+        - {x: 25.5, y: 3.5}
+        - {x: 18.5, y: 17.5}
+    - name: Juan_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 961
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 24.5}
+        - {x: -15, y: 17.5}
+        - {x: -27, y: 1.5}
+        - {x: -27, y: -16.5}
+        - {x: -12, y: -24.5}
+        - {x: 16, y: -24.5}
+        - {x: 27, y: -12.5}
+        - {x: 27, y: 6.5}
+        - {x: 9, y: 24.5}
+    - name: Juan_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 961
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -14.5}
+        - {x: -16, y: -24.5}
+        - {x: 14, y: -24.5}
+        - {x: 27, y: -18.5}
+        - {x: 27, y: 1.5}
+        - {x: 11, y: 24.5}
+        - {x: -13, y: 24.5}
+        - {x: -27, y: 3.5}
+    - name: Juan_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 960
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -21}
+        - {x: -25, y: -25}
+        - {x: 11, y: -25}
+        - {x: 27, y: -15}
+        - {x: 27, y: -1}
+        - {x: 8, y: 25}
+        - {x: -13, y: 25}
+        - {x: -27, y: 9}
+    - name: Juan_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 960
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 25}
+        - {x: -8, y: 25}
+        - {x: -27, y: 7}
+        - {x: -27, y: -14}
+        - {x: -20, y: -25}
+        - {x: 13, y: -25}
+        - {x: 17, y: -24}
+        - {x: 27, y: -16}
+        - {x: 27, y: 7}
+        - {x: 21, y: 22}
+    - name: Juan_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 25}
+        - {x: -27, y: -2}
+        - {x: -27, y: -10}
+        - {x: -11, y: -25}
+        - {x: 23, y: -25}
+        - {x: 27, y: -22}
+        - {x: 27, y: 6}
+        - {x: 18, y: 18}
+        - {x: 12, y: 25}
+    - name: Juan_42
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 960
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 25}
+        - {x: -8, y: 25}
+        - {x: -27, y: 7}
+        - {x: -27, y: -14}
+        - {x: -20, y: -25}
+        - {x: 13, y: -25}
+        - {x: 17, y: -24}
+        - {x: 27, y: -16}
+        - {x: 27, y: 7}
+        - {x: 21, y: 22}
+    - name: Juan_43
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 960
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -21}
+        - {x: -25, y: -25}
+        - {x: 11, y: -25}
+        - {x: 27, y: -15}
+        - {x: 27, y: -1}
+        - {x: 8, y: 25}
+        - {x: -13, y: 25}
+        - {x: -27, y: 9}
+    - name: Juan_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 896
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 25.5}
+        - {x: -27, y: 4.5}
+        - {x: -27, y: -13.5}
+        - {x: -21, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 27, y: -16.5}
+        - {x: 27, y: 4.5}
+        - {x: 21, y: 25.5}
+    - name: Juan_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 897
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 25}
+        - {x: -7.5, y: 25}
+        - {x: -15.5, y: 19}
+        - {x: -25.5, y: 3}
+        - {x: -25.5, y: -6}
+        - {x: -12.5, y: -21}
+        - {x: -8.5, y: -25}
+        - {x: 25.5, y: -25}
+        - {x: 25.5, y: -9}
+        - {x: 13.5, y: 23}
+    - name: Juan_46
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 897
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 25}
+        - {x: -20, y: -25}
+        - {x: 20, y: -25}
+        - {x: 20, y: 24}
+        - {x: 17, y: 25}
+    - name: Juan_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 897
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 897
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 896
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 897
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 897
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 833
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 24.5}
+        - {x: -25.5, y: 6.5}
+        - {x: -25.5, y: -20.5}
+        - {x: -14.5, y: -24.5}
+        - {x: 14.5, y: -24.5}
+        - {x: 25.5, y: -9.5}
+        - {x: 25.5, y: 8.5}
+        - {x: 8.5, y: 24.5}
+    - name: Juan_53
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 833
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24.5}
+        - {x: -27, y: 0.5}
+        - {x: -27, y: -17.5}
+        - {x: -10, y: -24.5}
+        - {x: 26, y: -24.5}
+        - {x: 27, y: -23.5}
+        - {x: 27, y: 0.5}
+        - {x: 13, y: 24.5}
+    - name: Juan_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 833
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24.5}
+        - {x: -27, y: 16.5}
+        - {x: -27, y: -16.5}
+        - {x: -13, y: -24.5}
+        - {x: 20, y: -24.5}
+        - {x: 27, y: -17.5}
+        - {x: 27, y: 3.5}
+        - {x: 17, y: 24.5}
+    - name: Juan_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 832
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 25}
+        - {x: -9, y: 25}
+        - {x: -27, y: 7}
+        - {x: -27, y: -10}
+        - {x: -14, y: -25}
+        - {x: 13, y: -25}
+        - {x: 19, y: -22}
+        - {x: 27, y: -17}
+        - {x: 27, y: 13}
+    - name: Juan_56
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 832
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 25}
+        - {x: -13, y: 25}
+        - {x: -27, y: -1}
+        - {x: -27, y: -10}
+        - {x: -16, y: -24}
+        - {x: -15, y: -25}
+        - {x: 15, y: -25}
+        - {x: 27, y: -17}
+        - {x: 27, y: 5}
+        - {x: 19, y: 20}
+    - name: Juan_57
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 832
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 25}
+        - {x: -27, y: 2}
+        - {x: -27, y: -11}
+        - {x: -24, y: -25}
+        - {x: 22, y: -25}
+        - {x: 27, y: -23}
+        - {x: 27, y: 4}
+        - {x: 7, y: 25}
+    - name: Juan_58
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 832
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 25}
+        - {x: -13, y: 25}
+        - {x: -27, y: -1}
+        - {x: -27, y: -10}
+        - {x: -16, y: -24}
+        - {x: -15, y: -25}
+        - {x: 15, y: -25}
+        - {x: 27, y: -17}
+        - {x: 27, y: 5}
+        - {x: 19, y: 20}
+    - name: Juan_59
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 832
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 25}
+        - {x: -9, y: 25}
+        - {x: -27, y: 7}
+        - {x: -27, y: -10}
+        - {x: -14, y: -25}
+        - {x: 13, y: -25}
+        - {x: 19, y: -22}
+        - {x: 27, y: -17}
+        - {x: 27, y: 13}
+    - name: Juan_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 771
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -27, y: 6}
+        - {x: -27, y: -20}
+        - {x: -22, y: -24}
+        - {x: 23, y: -24}
+        - {x: 27, y: -21}
+        - {x: 27, y: 11}
+        - {x: 24, y: 24}
+    - name: Juan_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 771
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 24}
+        - {x: -25.5, y: 6}
+        - {x: -25.5, y: -15}
+        - {x: -14.5, y: -24}
+        - {x: 19.5, y: -24}
+        - {x: 25.5, y: -21}
+        - {x: 25.5, y: -6}
+        - {x: 9.5, y: 24}
+    - name: Juan_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 770
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 18.5}
+        - {x: -22, y: -16.5}
+        - {x: -11, y: -24.5}
+        - {x: 22, y: -24.5}
+        - {x: 22, y: 13.5}
+        - {x: 21, y: 23.5}
+        - {x: 18, y: 24.5}
+        - {x: -18, y: 24.5}
+        - {x: -21, y: 22.5}
+    - name: Juan_63
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 769
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -21.5}
+        - {x: -13, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 19, y: 28.5}
+        - {x: 8, y: 28.5}
+        - {x: -6, y: 20.5}
+        - {x: -19, y: 4.5}
+    - name: Juan_64
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 770
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 24.5}
+        - {x: -21.5, y: -19.5}
+        - {x: -13.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 21.5, y: -22.5}
+        - {x: 21.5, y: 0.5}
+        - {x: 11.5, y: 24.5}
+    - name: Juan_65
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 771
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 24}
+        - {x: -25.5, y: 12}
+        - {x: -25.5, y: -10}
+        - {x: -20.5, y: -23}
+        - {x: -18.5, y: -24}
+        - {x: 25.5, y: -24}
+        - {x: 25.5, y: -6}
+        - {x: 10.5, y: 24}
+    - name: Juan_66
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 770
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 24.5}
+        - {x: -21.5, y: -13.5}
+        - {x: -15.5, y: -24.5}
+        - {x: 21.5, y: -24.5}
+        - {x: 21.5, y: 1.5}
+        - {x: 13.5, y: 24.5}
+    - name: Juan_67
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 769
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 28}
+        - {x: -9.5, y: 26}
+        - {x: -18.5, y: 17}
+        - {x: -18.5, y: -19}
+        - {x: -16.5, y: -28}
+        - {x: 15.5, y: -28}
+        - {x: 18.5, y: -23}
+        - {x: 18.5, y: 28}
+    - name: Juan_68
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 770
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 24.5}
+        - {x: -12, y: 24.5}
+        - {x: -21, y: 21.5}
+        - {x: -21, y: -17.5}
+        - {x: -12, y: -24.5}
+        - {x: 21, y: -24.5}
+        - {x: 21, y: 6.5}
+    - name: Juan_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 705
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 24.5}
+        - {x: -25.5, y: 8.5}
+        - {x: -25.5, y: -4.5}
+        - {x: -24.5, y: -6.5}
+        - {x: -9.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 25.5, y: -22.5}
+        - {x: 25.5, y: 6.5}
+        - {x: 14.5, y: 24.5}
+    - name: Juan_70
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 706
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 23.5}
+        - {x: -22.5, y: 23.5}
+        - {x: -22.5, y: 2.5}
+        - {x: -12.5, y: -19.5}
+        - {x: -7.5, y: -23.5}
+        - {x: 19.5, y: -23.5}
+        - {x: 22.5, y: -20.5}
+        - {x: 22.5, y: 12.5}
+    - name: Juan_71
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 707
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 23.5}
+        - {x: -25.5, y: 12.5}
+        - {x: -25.5, y: -3.5}
+        - {x: -23.5, y: -6.5}
+        - {x: -11.5, y: -23.5}
+        - {x: 20.5, y: -23.5}
+        - {x: 25.5, y: -21.5}
+        - {x: 25.5, y: 9.5}
+        - {x: 16.5, y: 23.5}
+    - name: Juan_72
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 707
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 23.5}
+        - {x: -23, y: 18.5}
+        - {x: -27, y: 7.5}
+        - {x: -27, y: -20.5}
+        - {x: -19, y: -23.5}
+        - {x: 21, y: -23.5}
+        - {x: 27, y: -16.5}
+        - {x: 27, y: -7.5}
+        - {x: 9, y: 23.5}
+    - name: Juan_73
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 706
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 24}
+        - {x: -27, y: -5}
+        - {x: -27, y: -16}
+        - {x: -18, y: -24}
+        - {x: 8, y: -24}
+        - {x: 9, y: -23}
+        - {x: 27, y: -17}
+        - {x: 27, y: -5}
+        - {x: 20, y: 24}
+    - name: Juan_74
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 705
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 24}
+        - {x: -25.5, y: -8}
+        - {x: -25.5, y: -24}
+        - {x: 8.5, y: -24}
+        - {x: 25.5, y: -9}
+        - {x: 25.5, y: 16}
+        - {x: 9.5, y: 24}
+    - name: Juan_75
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 706
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 24}
+        - {x: -19, y: 24}
+        - {x: -27, y: 3}
+        - {x: -27, y: -22}
+        - {x: -23, y: -24}
+        - {x: 5, y: -24}
+        - {x: 6, y: -23}
+        - {x: 27, y: -15}
+        - {x: 27, y: -3}
+    - name: Juan_76
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 706
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 24}
+        - {x: -25.5, y: 16}
+        - {x: -25.5, y: -3}
+        - {x: -22.5, y: -6}
+        - {x: -6.5, y: -24}
+        - {x: 23.5, y: -24}
+        - {x: 25.5, y: -22}
+        - {x: 25.5, y: 16}
+        - {x: 13.5, y: 24}
+    - name: Juan_77
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 706
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 24}
+        - {x: -21.5, y: 24}
+        - {x: -21.5, y: 8}
+        - {x: -6.5, y: -24}
+        - {x: 20.5, y: -24}
+        - {x: 21.5, y: -22}
+        - {x: 21.5, y: 9}
+        - {x: 18.5, y: 18}
+    - name: Juan_78
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 640
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 25.5}
+        - {x: -10, y: 25.5}
+        - {x: -27, y: 9.5}
+        - {x: -27, y: -17.5}
+        - {x: -20, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 27, y: -16.5}
+        - {x: 27, y: -1.5}
+        - {x: 18, y: 22.5}
+    - name: Juan_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25.5}
+        - {x: -26, y: 7.5}
+        - {x: -26, y: -20.5}
+        - {x: -18, y: -25.5}
+        - {x: 26, y: -25.5}
+        - {x: 26, y: 18.5}
+        - {x: 18, y: 25.5}
+    - name: Juan_80
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 640
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -0.5}
+        - {x: -9.5, y: -25.5}
+        - {x: 22.5, y: -25.5}
+        - {x: 25.5, y: -24.5}
+        - {x: 25.5, y: 12.5}
+        - {x: 21.5, y: 25.5}
+        - {x: -3.5, y: 25.5}
+        - {x: -25.5, y: 14.5}
+    - name: Juan_81
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 641
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24.5}
+        - {x: -26, y: 0.5}
+        - {x: -26, y: -14.5}
+        - {x: -10, y: -24.5}
+        - {x: 26, y: -24.5}
+        - {x: 26, y: 5.5}
+        - {x: 15, y: 24.5}
+    - name: Juan_82
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 640
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 25.5}
+        - {x: -25.5, y: 14.5}
+        - {x: -25.5, y: -0.5}
+        - {x: -18.5, y: -15.5}
+        - {x: -4.5, y: -25.5}
+        - {x: 16.5, y: -25.5}
+        - {x: 25.5, y: -15.5}
+        - {x: 25.5, y: 16.5}
+        - {x: 14.5, y: 25.5}
+    - name: Juan_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 25.5}
+        - {x: -26, y: 8.5}
+        - {x: -26, y: -6.5}
+        - {x: -10, y: -25.5}
+        - {x: 26, y: -25.5}
+        - {x: 26, y: 14.5}
+        - {x: 19, y: 25.5}
+    - name: Juan_84
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 641
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 25}
+        - {x: -3.5, y: 25}
+        - {x: -25.5, y: 16}
+        - {x: -25.5, y: 2}
+        - {x: -10.5, y: -25}
+        - {x: 23.5, y: -25}
+        - {x: 25.5, y: -23}
+        - {x: 25.5, y: 8}
+        - {x: 22.5, y: 22}
+    - name: Juan_85
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 641
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 24.5}
+        - {x: -12, y: 24.5}
+        - {x: -25, y: 15.5}
+        - {x: -25, y: 3.5}
+        - {x: -11, y: -24.5}
+        - {x: 18, y: -24.5}
+        - {x: 21, y: -22.5}
+        - {x: 25, y: -19.5}
+        - {x: 25, y: 13.5}
+    - name: Juan_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 25.5}
+        - {x: -26, y: 6.5}
+        - {x: -26, y: -4.5}
+        - {x: -11, y: -25.5}
+        - {x: 20, y: -25.5}
+        - {x: 26, y: -23.5}
+        - {x: 26, y: 12.5}
+        - {x: 16, y: 25.5}
+    - name: Juan_87
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 577
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24.5}
+        - {x: -17.5, y: 23.5}
+        - {x: -25.5, y: 7.5}
+        - {x: -25.5, y: -20.5}
+        - {x: -21.5, y: -24.5}
+        - {x: 15.5, y: -24.5}
+        - {x: 25.5, y: -14.5}
+        - {x: 25.5, y: 9.5}
+        - {x: 13.5, y: 24.5}
+    - name: Juan_88
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 578
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 23.5}
+        - {x: -22.5, y: 17.5}
+        - {x: -22.5, y: -23.5}
+        - {x: 17.5, y: -23.5}
+        - {x: 22.5, y: -12.5}
+        - {x: 22.5, y: 23.5}
+    - name: Juan_89
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 579
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 23.5}
+        - {x: -20.5, y: 16.5}
+        - {x: -25.5, y: 5.5}
+        - {x: -25.5, y: -22.5}
+        - {x: -19.5, y: -23.5}
+        - {x: 14.5, y: -23.5}
+        - {x: 25.5, y: -4.5}
+        - {x: 25.5, y: 11.5}
+        - {x: 3.5, y: 23.5}
+    - name: Juan_90
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 579
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 23.5}
+        - {x: -27, y: -0.5}
+        - {x: -27, y: -15.5}
+        - {x: -15, y: -23.5}
+        - {x: 15, y: -23.5}
+        - {x: 27, y: -20.5}
+        - {x: 27, y: -5.5}
+        - {x: 13, y: 23.5}
+    - name: Juan_91
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 578
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 24}
+        - {x: -4, y: 24}
+        - {x: -8, y: 21}
+        - {x: -27, y: -7}
+        - {x: -27, y: -15}
+        - {x: -7, y: -24}
+        - {x: 13, y: -24}
+        - {x: 25, y: -20}
+        - {x: 27, y: -16}
+        - {x: 27, y: -4}
+    - name: Juan_92
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 577
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 24}
+        - {x: -25.5, y: 1}
+        - {x: -25.5, y: -10}
+        - {x: -6.5, y: -24}
+        - {x: 25.5, y: -24}
+        - {x: 25.5, y: -12}
+        - {x: 12.5, y: 24}
+    - name: Juan_93
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 578
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24}
+        - {x: -27, y: -1}
+        - {x: -27, y: -20}
+        - {x: -12, y: -24}
+        - {x: 27, y: -24}
+        - {x: 27, y: 2}
+        - {x: 15, y: 24}
+    - name: Juan_94
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 578
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 24}
+        - {x: -25.5, y: 7}
+        - {x: -25.5, y: -20}
+        - {x: -21.5, y: -20}
+        - {x: -13.5, y: -24}
+        - {x: 8.5, y: -24}
+        - {x: 25.5, y: -12}
+        - {x: 25.5, y: 10}
+        - {x: 17.5, y: 24}
+    - name: Juan_95
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 578
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 24}
+        - {x: -21.5, y: -24}
+        - {x: 9.5, y: -24}
+        - {x: 21.5, y: 5}
+        - {x: 21.5, y: 24}
+    - name: Juan_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 514
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_97
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 513
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 513
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 513
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 24.5}
+        - {x: -12, y: 24.5}
+        - {x: -18, y: 9.5}
+        - {x: -18, y: -21.5}
+        - {x: -15, y: -24.5}
+        - {x: 12, y: -24.5}
+        - {x: 18, y: -8.5}
+        - {x: 18, y: 15.5}
+    - name: Juan_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 513
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 24.5}
+        - {x: -19.5, y: -24.5}
+        - {x: 11.5, y: -24.5}
+        - {x: 19.5, y: -4.5}
+        - {x: 19.5, y: 10.5}
+        - {x: 7.5, y: 24.5}
+    - name: Juan_102
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 449
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 448
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 448
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 448
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25}
+        - {x: -17, y: 8}
+        - {x: -17, y: -13}
+        - {x: -10, y: -25}
+        - {x: 16, y: -25}
+        - {x: 17, y: -24}
+        - {x: 17, y: 14}
+        - {x: 12, y: 25}
+    - name: Juan_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 448
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25}
+        - {x: -18, y: 12}
+        - {x: -18, y: -14}
+        - {x: -13, y: -23}
+        - {x: -5, y: -25}
+        - {x: 18, y: -25}
+        - {x: 18, y: 25}
+    - name: Juan_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 448
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 25}
+        - {x: -16.5, y: 14}
+        - {x: -16.5, y: -7}
+        - {x: -13.5, y: -23}
+        - {x: -8.5, y: -25}
+        - {x: 16.5, y: -25}
+        - {x: 16.5, y: 17}
+        - {x: 13.5, y: 25}
+    - name: Juan_108
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 384
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -25.5}
+        - {x: 17, y: -25.5}
+        - {x: 17, y: 12.5}
+        - {x: 9, y: 25.5}
+        - {x: -10, y: 25.5}
+        - {x: -17, y: 15.5}
+        - {x: -17, y: -19.5}
+        - {x: -16, y: -24.5}
+        - {x: -13, y: -25.5}
+        - {x: -3, y: -25.5}
+        - {x: -1, y: -22.5}
+        - {x: -1, y: -17.5}
+    - name: Juan_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 384
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 384
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 385
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 385
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 25}
+        - {x: -17.5, y: 20}
+        - {x: -17.5, y: -25}
+        - {x: 9.5, y: -25}
+        - {x: 17.5, y: -14}
+        - {x: 17.5, y: 1}
+        - {x: 9.5, y: 25}
+    - name: Juan_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 385
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 25}
+        - {x: -19.5, y: 12}
+        - {x: -19.5, y: -25}
+        - {x: 13.5, y: -25}
+        - {x: 19.5, y: -19}
+        - {x: 19.5, y: 11}
+        - {x: 13.5, y: 25}
+    - name: Juan_114
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 321
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 320
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 320
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 320
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 19}
+        - {x: 9, y: 25}
+        - {x: -13, y: 25}
+        - {x: -17, y: 14}
+        - {x: -17, y: -22}
+        - {x: -16, y: -24}
+        - {x: -13, y: -25}
+        - {x: 7, y: -25}
+        - {x: 13, y: -22}
+        - {x: 17, y: -18}
+    - name: Juan_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 320
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 11}
+        - {x: 7, y: 25}
+        - {x: -18, y: 25}
+        - {x: -18, y: -25}
+        - {x: 3, y: -25}
+        - {x: 10, y: -22}
+        - {x: 9, y: -18}
+        - {x: 18, y: -2}
+    - name: Juan_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 320
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 25}
+        - {x: -12.5, y: 22}
+        - {x: -16.5, y: 4}
+        - {x: -16.5, y: -25}
+        - {x: 12.5, y: -25}
+        - {x: 16.5, y: -13}
+        - {x: 16.5, y: 13}
+        - {x: 11.5, y: 25}
+    - name: Juan_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 258
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_121
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 256
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_122
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 256
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 256
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_124
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 256
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_125
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 256
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_126
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 256
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_127
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 256
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_128
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 256
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_129
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 256
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 256
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_131
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 256
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_132
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 256
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_133
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 193
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 193
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 193
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24.5}
+        - {x: -16, y: 3.5}
+        - {x: -16, y: -9.5}
+        - {x: -14, y: -11.5}
+        - {x: -10, y: -11.5}
+        - {x: -7, y: -14.5}
+        - {x: -11, y: -19.5}
+        - {x: -13, y: -22.5}
+        - {x: -8, y: -24.5}
+        - {x: 10, y: -24.5}
+        - {x: 16, y: -19.5}
+        - {x: 16, y: 20.5}
+        - {x: 14, y: 24.5}
+    - name: Juan_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 192
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 25}
+        - {x: -5.5, y: 25}
+        - {x: -13.5, y: 18}
+        - {x: -17.5, y: 4}
+        - {x: -17.5, y: -13}
+        - {x: -11.5, y: -22}
+        - {x: -5.5, y: -25}
+        - {x: 14.5, y: -25}
+        - {x: 17.5, y: -24}
+        - {x: 17.5, y: 13}
+        - {x: 16.5, y: 18}
+    - name: Juan_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 192
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 25}
+        - {x: -17.5, y: 22}
+        - {x: -17.5, y: -25}
+        - {x: 17.5, y: -25}
+        - {x: 17.5, y: 23}
+        - {x: 13.5, y: 25}
+    - name: Juan_138
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 192
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 25}
+        - {x: -16, y: 18}
+        - {x: -16, y: -25}
+        - {x: 16, y: -25}
+        - {x: 16, y: 21}
+        - {x: 14, y: 25}
+    - name: Juan_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 192
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 25}
+        - {x: -17, y: 18}
+        - {x: -17, y: -17}
+        - {x: -15, y: -24}
+        - {x: -11, y: -25}
+        - {x: 16, y: -25}
+        - {x: 17, y: -22}
+        - {x: 17, y: 25}
+    - name: Juan_140
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 192
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 25}
+        - {x: -18, y: 18}
+        - {x: -18, y: -25}
+        - {x: 12, y: -25}
+        - {x: 16, y: -24}
+        - {x: 18, y: -20}
+        - {x: 18, y: 20}
+        - {x: 15, y: 25}
+    - name: Juan_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 192
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 25}
+        - {x: -19, y: 9}
+        - {x: -19, y: -3}
+        - {x: -14, y: -22}
+        - {x: -8, y: -25}
+        - {x: 12, y: -25}
+        - {x: 15, y: -24}
+        - {x: 19, y: -11}
+        - {x: 19, y: 13}
+        - {x: 16, y: 25}
+    - name: Juan_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 192
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 25}
+        - {x: -17.5, y: 22}
+        - {x: -17.5, y: -25}
+        - {x: 17.5, y: -25}
+        - {x: 17.5, y: 23}
+        - {x: 13.5, y: 25}
+    - name: Juan_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 192
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 25}
+        - {x: -10, y: 24}
+        - {x: -17, y: 13}
+        - {x: -17, y: -18}
+        - {x: -10, y: -25}
+        - {x: 17, y: -25}
+        - {x: 17, y: 22}
+        - {x: 14, y: 25}
+    - name: Juan_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 192
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 192
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 25}
+        - {x: -10, y: 24}
+        - {x: -17, y: 13}
+        - {x: -17, y: -18}
+        - {x: -10, y: -25}
+        - {x: 17, y: -25}
+        - {x: 17, y: 22}
+        - {x: 14, y: 25}
+    - name: Juan_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_147
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 129
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 130
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 128
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 128
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 128
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 128
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 128
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 128
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_155
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 128
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 128
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_157
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 128
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 128
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_159
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 65
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 65
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 24.5}
+        - {x: -16, y: 24.5}
+        - {x: -16, y: -19.5}
+        - {x: -12, y: -24.5}
+        - {x: 10, y: -24.5}
+        - {x: 16, y: -11.5}
+        - {x: 16, y: 7.5}
+        - {x: 11, y: 17.5}
+    - name: Juan_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 25}
+        - {x: -17.5, y: -17}
+        - {x: -14.5, y: -25}
+        - {x: 17.5, y: -25}
+        - {x: 17.5, y: 25}
+    - name: Juan_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 25}
+        - {x: -17.5, y: 25}
+        - {x: -17.5, y: -24}
+        - {x: -15.5, y: -25}
+        - {x: 1.5, y: -25}
+        - {x: 8.5, y: -23}
+        - {x: 15.5, y: -17}
+        - {x: 17.5, y: -12}
+        - {x: 17.5, y: 22}
+    - name: Juan_164
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 64
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25}
+        - {x: -16, y: -25}
+        - {x: 7, y: -25}
+        - {x: 16, y: -4}
+        - {x: 16, y: 16}
+        - {x: 6, y: 25}
+    - name: Juan_165
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 25}
+        - {x: -17, y: 24}
+        - {x: -17, y: -20}
+        - {x: -16, y: -23}
+        - {x: -14, y: -25}
+        - {x: 11, y: -25}
+        - {x: 17, y: -7}
+        - {x: 17, y: 19}
+        - {x: 10, y: 25}
+    - name: Juan_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 64
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 25}
+        - {x: -18, y: 19}
+        - {x: -18, y: -15}
+        - {x: -14, y: -25}
+        - {x: 18, y: -25}
+        - {x: 18, y: 18}
+        - {x: 8, y: 25}
+    - name: Juan_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 64
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 12}
+        - {x: 12, y: 24}
+        - {x: 10, y: 25}
+        - {x: -12, y: 25}
+        - {x: -19, y: 16}
+        - {x: -19, y: -20}
+        - {x: -13, y: -25}
+        - {x: 3, y: -25}
+        - {x: 10, y: -23}
+        - {x: 12, y: -21}
+        - {x: 12, y: -18}
+        - {x: 19, y: -3}
+    - name: Juan_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 64
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 25}
+        - {x: -17.5, y: 25}
+        - {x: -17.5, y: -24}
+        - {x: -15.5, y: -25}
+        - {x: 1.5, y: -25}
+        - {x: 8.5, y: -23}
+        - {x: 15.5, y: -17}
+        - {x: 17.5, y: -12}
+        - {x: 17.5, y: 22}
+    - name: Juan_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 25}
+        - {x: -16, y: 23}
+        - {x: -17, y: 19}
+        - {x: -17, y: -20}
+        - {x: -15, y: -25}
+        - {x: 15, y: -25}
+        - {x: 17, y: -16}
+        - {x: 17, y: 21}
+        - {x: 8, y: 25}
+    - name: Juan_170
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 64
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 25}
+        - {x: -17, y: 25}
+        - {x: -17, y: -25}
+        - {x: 13, y: -25}
+        - {x: 17, y: -12}
+        - {x: 17, y: 11}
+    - name: Juan_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16.5}
+        - {x: -16, y: 11.5}
+        - {x: -16, y: -16.5}
+        - {x: 16, y: -16.5}
+        - {x: 16, y: 10.5}
+        - {x: 10, y: 16.5}
+    - name: Juan_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17.5}
+        - {x: -17, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 17, y: 17.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
