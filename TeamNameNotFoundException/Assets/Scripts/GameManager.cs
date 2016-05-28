@@ -103,7 +103,7 @@ void OnLevelWasLoaded(int index)
 		}
 		for (int i = 0; i < enemies.Count; i++)
 		{
-			if(enemies[i].health == 0) {
+			if(enemies[i].health <= 0) {
 				continue;
 			}
 
