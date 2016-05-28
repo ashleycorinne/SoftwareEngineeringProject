@@ -2,16 +2,24 @@
 using System.Collections;
 
 public class CharacterManager : MonoBehaviour {
+	private string characterName = "";
 
-	public void CharacterSelected(int id) {
-		Debug.Log ("Character selected: " + CharacterName(id));
-		Debug.Log ("Number selected: " + id);
+	public string GetCharacterName()
+	{
+		Debug.Log ("Inside: " + characterName);
+		return characterName;
 	}
 
-	string CharacterName(int id) {
-		switch(id) {
+	public void CharacterSelected(int id) {
+		characterName = GetCharacter (id);
+		Debug.Log ("Character Name: " + GameManager.instance);
+		GameManager.instance.characterName = characterName;
+	}
+
+	public string GetCharacter(int id) {
+		switch (id) {
 		case 0:
-			return "Ashley";
+			return "Player";
 
 		case 1:
 			return "Juan";
@@ -23,7 +31,7 @@ public class CharacterManager : MonoBehaviour {
 			return "Andrew";
 
 		default:
-			return "Who is that?";
+			return null;
 		}
 	}
 }

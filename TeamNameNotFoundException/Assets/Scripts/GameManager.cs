@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
+	public string characterName = "";
 	public float levelStartDelay = 2f;						
 	public float turnDelay = 0.1f;							
 	public int playerBattery = 100;
@@ -24,16 +25,16 @@ public class GameManager : MonoBehaviour
     
 
 void Awake()
-	{
-		if (instance == null)
-			instance = this;
-		else if (instance != this)
-			Destroy(gameObject);	
-		DontDestroyOnLoad(gameObject);
-		enemies = new List<Enemy>();
-		boardScript = GetComponent<BoardManager>();
-        InitGame();
-	}
+{
+	if (instance == null)
+		instance = this;
+	else if (instance != this)
+		Destroy(gameObject);	
+	DontDestroyOnLoad(gameObject);
+	enemies = new List<Enemy>();
+	boardScript = GetComponent<BoardManager>();
+    InitGame();
+}
 
 void OnLevelWasLoaded(int index)
 	{
@@ -107,6 +108,11 @@ void OnLevelWasLoaded(int index)
 		}
 		playersTurn = true;
 		enemiesMoving = false;
+	}
+
+	public void SetCharacterName(string name)
+	{
+		characterName = name;
 	}
 }
 
