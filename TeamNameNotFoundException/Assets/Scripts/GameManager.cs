@@ -103,6 +103,10 @@ void OnLevelWasLoaded(int index)
 		}
 		for (int i = 0; i < enemies.Count; i++)
 		{
+			if(enemies[i].health == 0) {
+				continue;
+			}
+
 			enemies[i].MoveEnemy();
 			yield return new WaitForSeconds(enemies[i].moveTime);
 		}

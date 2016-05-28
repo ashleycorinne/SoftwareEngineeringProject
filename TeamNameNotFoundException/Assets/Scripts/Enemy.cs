@@ -53,6 +53,7 @@ public class Enemy : MovingObject, IHittable
 		health -= damage;
 		if(health <= 0) 
 		{
+			playerDamage = 0;
 			gameObject.SetActive (false);
 		}
 	}
