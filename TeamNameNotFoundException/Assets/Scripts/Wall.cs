@@ -15,10 +15,17 @@ public class Wall : MonoBehaviour
 			
 	public void DamageWall (int loss)
 	{
-		//SoundManager.instance.RandomizeSfx (chopSound1, chopSound2);
 		spriteRenderer.sprite = dmgSprite;
 		this.hp -= loss;
 		if(this.hp <= 0)
-			gameObject.SetActive (false);
+        {
+            SoundManager.instance.PlaySingle(chopSound1);
+            //gameObject.SetActive(false);
+            Destroy(gameObject, chopSound1.length);
+        }
+        else
+        {
+            SoundManager.instance.PlaySingle(chopSound2);
+        }
 	}
 }

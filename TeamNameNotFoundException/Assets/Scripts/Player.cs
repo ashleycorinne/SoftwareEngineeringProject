@@ -15,10 +15,9 @@ public class Player : MovingObject
     public AudioClip moveSound1;
     public AudioClip moveSound2;
     public AudioClip eatSound1;
-    public AudioClip eatSound2;
     public AudioClip drinkSound1;
-    public AudioClip drinkSound2;
     public AudioClip gameOverSound;
+    public AudioClip hurtSound;
 
     private Animator animator;
     private int battery;
@@ -29,6 +28,8 @@ public class Player : MovingObject
         battery = GameManager.instance.playerBattery;
         BatteryText.text = battery + "%";
         PlusMinusBatteryText.text = "";
+        if(!string.Equals(ApplicationData.characterName, "Ashley", System.StringComparison.CurrentCultureIgnoreCase))
+            animator.runtimeAnimatorController = Resources.Load("Animations/AnimatorControllers/" + ApplicationData.characterName) as RuntimeAnimatorController;
         base.Start();
     }
 
@@ -67,7 +68,7 @@ public class Player : MovingObject
         RaycastHit2D hit;
         if (Move(xDir, yDir, out hit))
         {
-            //	SoundManager.instance.RandomizeSfx (moveSound1, moveSound2);
+            SoundManager.instance.RandomizeSfx (moveSound1, moveSound2);
         }
         CheckIfGameOver();
         GameManager.instance.playersTurn = false;
@@ -94,12 +95,12 @@ public class Player : MovingObject
             battery += batteryPoints;
             PlusMinusBatteryText.text = "+" + batteryPoints;
             BatteryText.text = battery + "%";
-            //	SoundManager.instance.RandomizeSfx (eatSound1, eatSound2);
+            SoundManager.instance.RandomizeSfx (eatSound1, eatSound1);
             other.gameObject.SetActive(false);
         }
         else if (other.tag == "Soda")
         {
-            //SoundManager.instance.RandomizeSfx (drinkSound1, drinkSound2);
+            SoundManager.instance.RandomizeSfx (drinkSound1, drinkSound1);
             battery += batteryPoints;
             PlusMinusBatteryText.text = "+" + 5;
             BatteryText.text = battery + "%";
@@ -110,13 +111,14 @@ public class Player : MovingObject
 
     private void Restart()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("MainScene");
     }
 
 
     public void LoseBattery(int loss)
     {
         animator.SetTrigger("playerHit");
+        SoundManager.instance.PlaySingle(hurtSound);
         battery -= loss;
         PlusMinusBatteryText.text = "-" + loss;
         BatteryText.text = battery + "%";

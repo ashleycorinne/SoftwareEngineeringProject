@@ -10,7 +10,7 @@ public class GameManager : MonoBehaviour
 		public float turnDelay = 0.1f;							
 		public int playerBattery = 100;
         private GameObject Tom;
-    public static GameManager instance = null;				
+        public static GameManager instance = null;				
 		[HideInInspector] public bool playersTurn = true;			
 		private Text levelText;									
 		private GameObject levelImage;							
@@ -46,13 +46,13 @@ public class GameManager : MonoBehaviour
 			InitGame();
 		}
 		
-		void InitGame()
+		 void InitGame()
 		{
 			doingSetup = true;	
 			levelImage = GameObject.Find("LevelImage");
 			levelText = GameObject.Find("LevelText").GetComponent<Text>();
-        Tom = GameObject.Find("Tom");
-        levelText.text = "Level " + level;
+            Tom = GameObject.Find("Tom");
+            levelText.text = "Level " + level;
 			levelImage.SetActive(true);
 			Invoke("HideLevelImage", levelStartDelay);
 			enemies.Clear();
@@ -108,6 +108,7 @@ public class GameManager : MonoBehaviour
 			playersTurn = true;
 			enemiesMoving = false;
 		}
-	}
+
+}
 
 

@@ -15,11 +15,16 @@ public class SceneScript : MonoBehaviour {
 	void Update () {
 	
 	}
+    public void goToCharacterSelectionScreen()
+    {
+        SoundManager.instance.PlaySingle(menuSelect);
+        SceneManager.LoadScene("CharacterSelection");
+    }
 
     public void goToGameScene()
     {
         SoundManager.instance.PlaySingle(menuSelect);
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("MainScene");
     }
 
     public void exitGame()

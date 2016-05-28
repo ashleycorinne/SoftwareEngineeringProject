@@ -9,7 +9,6 @@ public class SoundManager : MonoBehaviour
 	public float lowPitchRange = .95f;				
 	public float highPitchRange = 1.05f;			
 		
-		
 	void Awake ()
 	{
 		if (instance == null)
