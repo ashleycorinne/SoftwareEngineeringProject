@@ -1,15 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class HittableObject : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+public abstract class HittableObject : MonoBehaviour, IHittable {
+	public abstract void Damaged(int damage);
 }

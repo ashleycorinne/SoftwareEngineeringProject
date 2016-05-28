@@ -77,6 +77,8 @@
 'Assets/Scripts/Count.cs'
 'Assets/Scripts/Enemy.cs'
 'Assets/Scripts/GameManager.cs'
+'Assets/Scripts/HittableObject.cs'
+'Assets/Scripts/IHittable.cs'
 'Assets/Scripts/Loader.cs'
 'Assets/Scripts/MovingObject.cs'
 'Assets/Scripts/Player.cs'

@@ -1,8 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Enemy : MovingObject
+public class Enemy : MovingObject, IHittable
 {
+	public int health = 2;
 	public int playerDamage; 							
 	public AudioClip attackSound1;						
 	public AudioClip attackSound2;						
@@ -39,11 +40,20 @@ public class Enemy : MovingObject
 			xDir = target.position.x > transform.position.x ? 1 : -1;
 		AttemptMove <Player> (xDir, yDir);
 	}
-		
+		 
 	protected override void OnCantMove <T> (T component)
 	{
 		Player hitPlayer = component as Player;
 		hitPlayer.LoseBattery (playerDamage);
 		animator.SetTrigger ("enemyAttack");
+	}
+
+	public override void Damaged(int damage)
+	{
+		health -= damage;
+		if(health <= 0) 
+		{
+			gameObject.SetActive (false);
+		}
 	}
 }
