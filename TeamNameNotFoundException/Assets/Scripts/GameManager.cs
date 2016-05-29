@@ -102,8 +102,10 @@ public class GameManager : MonoBehaviour
 			}
 			for (int i = 0; i < enemies.Count; i++)
 			{
-				enemies[i].MoveEnemy();
-				yield return new WaitForSeconds(enemies[i].moveTime);
+				if(enemies[i].health > 0) {
+					enemies[i].MoveEnemy();
+					yield return new WaitForSeconds(enemies[i].moveTime);
+				}
 			}
 			playersTurn = true;
 			enemiesMoving = false;
