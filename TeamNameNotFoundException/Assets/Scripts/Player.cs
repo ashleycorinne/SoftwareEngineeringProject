@@ -9,6 +9,7 @@ public class Player : MovingObject
     public float restartLevelDelay = 1f;
     public int batteryPoints = 10;
     public float redbullPoints = 10f;
+	public int enemyDamage = 2;
     public int wallDamage = 1;
     public Text BatteryText;
     public Text PlusMinusBatteryText;
@@ -54,7 +55,7 @@ public class Player : MovingObject
         #endif
         if (horizontal != 0 || vertical != 0)
         {
-            AttemptMove<Wall>(horizontal, vertical);
+			AttemptMove<HittableObject>(horizontal, vertical);
             animator.SetTrigger("playerWalk");
         }
     }
@@ -77,9 +78,16 @@ public class Player : MovingObject
     protected override void OnCantMove<T>(T component)
     {
         animator.SetTrigger("playerChop");
-        Wall hitWall = component as Wall;
-        hitWall.DamageWall(wallDamage);
-
+        
+		if(component is Wall) 
+		{
+			Wall hitWall = component as Wall;
+			hitWall.DamageWall(wallDamage);
+		} else if(component is Enemy) 
+		{
+			Enemy enemy = component as Enemy;
+			enemy.Damaged (enemyDamage);
+		}
     }
 
 
@@ -117,13 +125,18 @@ public class Player : MovingObject
 
     public void LoseBattery(int loss)
     {
-        animator.SetTrigger("playerHit");
-        SoundManager.instance.PlaySingle(hurtSound);
-        battery -= loss;
-        PlusMinusBatteryText.text = "-" + loss;
-        BatteryText.text = battery + "%";
-        CheckIfGameOver();
+		Damaged (loss);
     }
+
+	public override void Damaged (int loss)
+	{
+		animator.SetTrigger("playerHit");
+		SoundManager.instance.PlaySingle(hurtSound);
+		battery -= loss;
+		PlusMinusBatteryText.text = "-" + loss;
+		BatteryText.text = battery + "%";
+		CheckIfGameOver();
+	}
 
     private void CheckIfGameOver()
     {

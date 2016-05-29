@@ -3,6 +3,7 @@ using System.Collections;
 
 public class Enemy : MovingObject
 {
+	public int health = 2;
 	public int playerDamage; 							
 	public AudioClip attackSound1;						
 	public AudioClip attackSound2;						
@@ -45,5 +46,14 @@ public class Enemy : MovingObject
 		Player hitPlayer = component as Player;
 		hitPlayer.LoseBattery (playerDamage);
 		animator.SetTrigger ("enemyAttack");
+	}
+
+	public override void Damaged (int damage)
+	{
+		health -= damage;
+		if(health <= 0)
+		{
+			gameObject.SetActive (false);
+		}
 	}
 }

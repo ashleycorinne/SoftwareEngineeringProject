@@ -1,11 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
-public class Wall : MonoBehaviour
+public class Wall : HittableObject
 {
 	public AudioClip chopSound1;				
 	public AudioClip chopSound2;				
 	public Sprite dmgSprite;					
-	public int hp = 3;						
+	public int health = 3;						
 	private SpriteRenderer spriteRenderer;		
 
 	void Awake ()
@@ -16,16 +16,20 @@ public class Wall : MonoBehaviour
 	public void DamageWall (int loss)
 	{
 		spriteRenderer.sprite = dmgSprite;
-		this.hp -= loss;
-		if(this.hp <= 0)
-        {
-            SoundManager.instance.PlaySingle(chopSound1);
-            //gameObject.SetActive(false);
-            Destroy(gameObject, chopSound1.length);
-        }
-        else
-        {
-            SoundManager.instance.PlaySingle(chopSound2);
-        }
+		Damaged (loss);
+	}
+
+	public override void Damaged (int damage)
+	{
+		health -= damage;
+		if(health <= 0)
+		{
+			SoundManager.instance.PlaySingle(chopSound1);
+			Destroy(gameObject, chopSound1.length);
+		}
+		else
+		{
+			SoundManager.instance.PlaySingle(chopSound2);
+		}
 	}
 }
