@@ -25,7 +25,7 @@ public class Wall : HittableObject
 		if(health <= 0)
 		{
 			SoundManager.instance.PlaySingle(chopSound1);
-			Destroy(gameObject, chopSound1.length);
+			Destroy(gameObject, chopSound1.length / 8);
 		}
 		else
 		{
