@@ -5,8 +5,8 @@ public class Enemy : MovingObject
 {
 	public int health = 2;
 	public int playerDamage; 							
-	public AudioClip attackSound1;						
-	public AudioClip attackSound2;						
+	public AudioClip attackSound;
+    public AudioClip hurtSound;					
 	private Animator animator;							
 	private Transform target;							
 	private bool skipMove;								
@@ -44,14 +44,17 @@ public class Enemy : MovingObject
 	protected override void OnCantMove <T> (T component)
 	{
 		Player hitPlayer = component as Player;
-		hitPlayer.LoseBattery (playerDamage);
-		animator.SetTrigger ("enemyAttack");
-	}
+        SoundManager.instance.RSfx(attackSound);
+        hitPlayer.LoseBattery (playerDamage);
+        animator.SetTrigger ("enemyAttack");
+    }
 
 	public override void Damaged (int damage)
 	{
 		health -= damage;
-		if(health <= 0)
+        SoundManager.instance.RSfx(hurtSound);
+
+        if (health <= 0)
 		{
 			gameObject.SetActive (false);
 		}

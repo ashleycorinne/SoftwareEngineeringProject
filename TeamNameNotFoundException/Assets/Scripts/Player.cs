@@ -19,6 +19,9 @@ public class Player : MovingObject
     public AudioClip drinkSound1;
     public AudioClip gameOverSound;
     public AudioClip hurtSound;
+    public AudioClip teleportSound;
+    public AudioClip lowBattery;
+    public AudioClip playerAttack;
 
     private Animator animator;
     private int battery;
@@ -62,6 +65,10 @@ public class Player : MovingObject
 
     protected override void AttemptMove<T>(int xDir, int yDir)
     {
+        if (battery <= 10)
+        {
+            SoundManager.instance.RSfx(lowBattery);
+        }
         battery--;
         BatteryText.text = battery + "%";
         PlusMinusBatteryText.text = "";
@@ -86,7 +93,8 @@ public class Player : MovingObject
 		} else if(component is Enemy) 
 		{
 			Enemy enemy = component as Enemy;
-			enemy.Damaged (enemyDamage);
+            SoundManager.instance.RandomizeSfx(playerAttack);
+            enemy.Damaged (enemyDamage);
 		}
     }
 
@@ -95,6 +103,7 @@ public class Player : MovingObject
     {
         if (other.tag == "Exit")
         {
+            SoundManager.instance.RSfx(teleportSound);
             Invoke("Restart", restartLevelDelay);
             enabled = false;
         }
