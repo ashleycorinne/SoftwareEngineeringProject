@@ -13,7 +13,8 @@ public class GameManager : MonoBehaviour
         public static GameManager instance = null;				
 		[HideInInspector] public bool playersTurn = true;			
 		private Text levelText;									
-		private GameObject levelImage;							
+		private GameObject levelImage;
+        public AudioClip cheatSound;				
 		private BoardManager boardScript;					
 		private int level = 1;									
 		private List<Enemy> enemies;							
@@ -21,7 +22,12 @@ public class GameManager : MonoBehaviour
 		private bool doingSetup = true;
         static bool firstRun = true;
 
-        
+       //Cheat code
+        private string[] cheatCode;
+        private int index;
+    private bool cheatEnabled;
+    private GameObject cheatText;
+
 
     void Awake()
 		{
@@ -33,7 +39,9 @@ public class GameManager : MonoBehaviour
 			enemies = new List<Enemy>();
 			boardScript = GetComponent<BoardManager>();
             InitGame();
-		}
+            cheatCode = new string[] { "i", "d", "k", "f", "a" };
+            index = 0;
+    }
 
     void OnLevelWasLoaded(int index)
 		{
@@ -48,10 +56,13 @@ public class GameManager : MonoBehaviour
 		
 		 void InitGame()
 		{
-			doingSetup = true;	
+			doingSetup = true;
+            cheatEnabled = false;
 			levelImage = GameObject.Find("LevelImage");
 			levelText = GameObject.Find("LevelText").GetComponent<Text>();
             Tom = GameObject.Find("Tom");
+            cheatText = GameObject.Find("CheatText");
+            cheatText.SetActive(false);
             levelText.text = "Level " + level;
 			levelImage.SetActive(true);
 			Invoke("HideLevelImage", levelStartDelay);
@@ -65,7 +76,7 @@ public class GameManager : MonoBehaviour
             {
                 Tom.SetActive(false);
             }
-		}
+    }
 
 		void HideLevelImage()
 		{
@@ -75,9 +86,27 @@ public class GameManager : MonoBehaviour
 		
 		void Update()
 		{
-			if(playersTurn || enemiesMoving || doingSetup)
-				return;
-			StartCoroutine (MoveEnemies ());
+            if (Input.anyKeyDown)
+            {
+                if (!cheatEnabled && Input.GetKeyDown(cheatCode[index]))
+                {
+                    index++;
+                if (index == cheatCode.Length)
+                    cheatEnabled = true;
+                }
+                else {
+                    index = 0;
+                }
+            }
+            if (cheatEnabled)
+            {
+                SoundManager.instance.PlaySingle(cheatSound);
+                cheatText.SetActive(true);
+                level = 9;
+            }
+            if (playersTurn || enemiesMoving || doingSetup)
+                return;
+            StartCoroutine(MoveEnemies());
 		}
 
 		public void AddEnemyToList(Enemy script)
