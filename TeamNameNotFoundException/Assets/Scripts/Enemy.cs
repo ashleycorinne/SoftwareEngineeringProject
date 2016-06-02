@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Enemy : MovingObject
 {
-	public int health = 2;
+	public int health = 4;
 	public int playerDamage; 							
 	public AudioClip attackSound1;						
 	public AudioClip attackSound2;						

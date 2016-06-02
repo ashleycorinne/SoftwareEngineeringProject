@@ -24,92 +24,94 @@ public class GameManager : MonoBehaviour
         
 
     void Awake()
-		{
-			if (instance == null)
-				instance = this;
-			else if (instance != this)
-				Destroy(gameObject);	
-			DontDestroyOnLoad(gameObject);
-			enemies = new List<Enemy>();
-			boardScript = GetComponent<BoardManager>();
-            InitGame();
-		}
+	{
+		if (instance == null)
+			instance = this;
+		else if (instance != this)
+			Destroy(gameObject);	
+		DontDestroyOnLoad(gameObject);
+		enemies = new List<Enemy>();
+		boardScript = GetComponent<BoardManager>();
+        InitGame();
+	}
 
     void OnLevelWasLoaded(int index)
-		{
-            if (firstRun)
-            {
-                firstRun = false;
-                return;
-            }
-            level++;
-			InitGame();
-		}
-		
-		 void InitGame()
-		{
-			doingSetup = true;	
-			levelImage = GameObject.Find("LevelImage");
-			levelText = GameObject.Find("LevelText").GetComponent<Text>();
-            Tom = GameObject.Find("Tom");
-            levelText.text = "Level " + level;
-			levelImage.SetActive(true);
-			Invoke("HideLevelImage", levelStartDelay);
-			enemies.Clear();
-			boardScript.SetupScene(level);
-            if(level == 1)
-            {
-                Tom.SetActive(true);
-            }
-            else
-            {
-                Tom.SetActive(false);
-            }
-		}
+	{
+        if (firstRun)
+        {
+            firstRun = false;
+            return;
+        }
+        level++;
+		InitGame();
+	}
+	
+	 void InitGame()
+	{
+		doingSetup = true;	
+		levelImage = GameObject.Find("LevelImage");
+		levelText = GameObject.Find("LevelText").GetComponent<Text>();
+        Tom = GameObject.Find("Tom");
+        levelText.text = "Level " + level;
+		levelImage.SetActive(true);
+		Invoke("HideLevelImage", levelStartDelay);
+		enemies.Clear();
+		boardScript.SetupScene(level);
+        if(level == 1)
+        {
+            Tom.SetActive(true);
+        }
+        else
+        {
+            Tom.SetActive(false);
+        }
+	}
 
-		void HideLevelImage()
-		{
-			levelImage.SetActive(false);	
-			doingSetup = false;
-		}
-		
-		void Update()
-		{
-			if(playersTurn || enemiesMoving || doingSetup)
-				return;
-			StartCoroutine (MoveEnemies ());
-		}
+	void HideLevelImage()
+	{
+		levelImage.SetActive(false);	
+		doingSetup = false;
+	}
+	
+	void Update()
+	{
+		if(playersTurn || enemiesMoving || doingSetup)
+			return;
+		StartCoroutine (MoveEnemies ());
+	}
 
-		public void AddEnemyToList(Enemy script)
+	public void AddEnemyToList(Enemy script)
+	{
+		enemies.Add(script);
+	}
+	
+	public void GameOver()
+	{
+		levelText.text = "Your laptop died! You are stuck in the computer forever. GAME OVER.";
+		levelImage.SetActive(true);
+		enabled = false;
+	}
+	
+	IEnumerator MoveEnemies()
+	{
+		enemiesMoving = true;	
+		yield return new WaitForSeconds(turnDelay);
+		if (enemies.Count == 0) 
 		{
-			enemies.Add(script);
-		}
-		
-		public void GameOver()
-		{
-			levelText.text = "Your laptop died! You are stuck in the computer forever. GAME OVER.";
-			levelImage.SetActive(true);
-			enabled = false;
-		}
-		
-		IEnumerator MoveEnemies()
-		{
-			enemiesMoving = true;	
 			yield return new WaitForSeconds(turnDelay);
-			if (enemies.Count == 0) 
-			{
-				yield return new WaitForSeconds(turnDelay);
-			}
-			for (int i = 0; i < enemies.Count; i++)
-			{
-				if(enemies[i].health > 0) {
-					enemies[i].MoveEnemy();
-					yield return new WaitForSeconds(enemies[i].moveTime);
-				}
-			}
-			playersTurn = true;
-			enemiesMoving = false;
 		}
+		for (int i = 0; i < enemies.Count; i++)
+		{
+			if(enemies[i].health > 0) 
+			{
+				enemies[i].MoveEnemy();
+			}
+
+			yield return new WaitForSeconds(enemies[i].moveTime);
+		}
+		playersTurn = true;
+		enemiesMoving = false;
+	}
 
 }
 
