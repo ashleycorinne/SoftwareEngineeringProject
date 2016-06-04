@@ -10,7 +10,8 @@ public class BoardManager : MonoBehaviour
 	public int rows = 8;											
 	public Count wallCount = new Count (5, 9);						
 	public Count itemCount = new Count (1, 5);						
-	public GameObject exit;											
+	public GameObject exit;
+    public GameObject boss;			
 	public GameObject[] floorTiles;									
 	public GameObject[] wallTiles;									
 	public GameObject[] itemTiles;									
@@ -79,4 +80,17 @@ public class BoardManager : MonoBehaviour
 		LayoutObjectAtRandom (enemyTiles, enemyCount, enemyCount);
 		Instantiate (exit, new Vector3 (columns - 1, rows - 1, 0f), Quaternion.identity);
 	}
+
+    public void SetupBossScene()
+    {
+        //BoardSetup();
+
+        InitialiseList();
+        //LayoutObjectAtRandom(wallTiles, wallCount.minimum, wallCount.maximum);
+        //LayoutObjectAtRandom(itemTiles, itemCount.minimum, itemCount.maximum);
+        int enemyCount = 1;
+        Instantiate(boss, new Vector3(columns - 3, rows - 3, 0f), Quaternion.identity);
+        //LayoutObjectAtRandom(enemyTiles, enemyCount, enemyCount);
+        //Instantiate(exit, new Vector3(columns - 1, rows - 1, 0f), Quaternion.identity);
+    }
 }

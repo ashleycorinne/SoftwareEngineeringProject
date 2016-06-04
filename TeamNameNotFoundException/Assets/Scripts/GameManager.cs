@@ -21,9 +21,10 @@ public class GameManager : MonoBehaviour
 		private bool enemiesMoving;								
 		private bool doingSetup = true;
         static bool firstRun = true;
+    public GameObject bossBackground;
 
-       //Cheat code
-        private string[] cheatCode;
+    //Cheat code
+    private string[] cheatCode;
         private int index;
     private bool cheatEnabled;
     private GameObject cheatText;
@@ -62,23 +63,31 @@ public class GameManager : MonoBehaviour
 			levelText = GameObject.Find("LevelText").GetComponent<Text>();
             Tom = GameObject.Find("Tom");
             cheatText = GameObject.Find("CheatText");
+            bossBackground = GameObject.Find("BossBackground");
             cheatText.SetActive(false);
             levelText.text = "Level " + level;
-			levelImage.SetActive(true);
-			Invoke("HideLevelImage", levelStartDelay);
-			enemies.Clear();
-			boardScript.SetupScene(level);
-            if(level == 1)
+            levelImage.SetActive(true);
+            Invoke("HideLevelImage", levelStartDelay);
+            enemies.Clear();
+            Tom.SetActive(false);
+            bossBackground.SetActive(false);
+            if (level != 10)
             {
-                Tom.SetActive(true);
+                boardScript.SetupScene(level);
+                if (level == 1)
+                {
+                    Tom.SetActive(true);
+                }
             }
             else
             {
-                Tom.SetActive(false);
+                bossBackground.SetActive(true);
+                boardScript.SetupBossScene();
             }
     }
 
-		void HideLevelImage()
+
+    void HideLevelImage()
 		{
 			levelImage.SetActive(false);	
 			doingSetup = false;
